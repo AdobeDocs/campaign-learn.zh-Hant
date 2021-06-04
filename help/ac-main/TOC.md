@@ -5,10 +5,10 @@ user-guide-title: Adobe CampaignTutorials
 user-guide-description: Adobe Campaign可讓行銷人員設計跨客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨管道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ae1ab8936ff47600640c6f4a448c80adc1f1a210
+source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 40%
+ht-degree: 39%
 
 ---
 
