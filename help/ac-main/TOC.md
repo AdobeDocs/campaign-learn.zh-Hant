@@ -5,10 +5,10 @@ user-guide-title: Adobe CampaignTutorials
 user-guide-description: Adobe Campaign可讓行銷人員設計跨客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨管道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 40%
+source-wordcount: '301'
+ht-degree: 36%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 40%
 + [概覽](/help/overview.md)
 + 快速入門{#getting-started}
    + [Adobe Campaign 簡介](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [安裝及設定 Adobe Campaign 用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [安裝及設定Adobe Campaign用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [探索 Adobe Campaign 使用者介面](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
    + [管理行銷活動](/help/getting-started/manage-marketing-campaigns.md)
    + [建立行銷計畫、方案和行銷活動](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 40%
       + [設計電子郵件以提供傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + SMS {#sms}
-      + [建立簡訊傳遞](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [建立簡訊傳送](/help/send-messages/mobile/create-a-sms-delivery.md)
    + 推播 {#push}
       + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用Experience Platform行動SDK設定推播通道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
