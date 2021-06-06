@@ -5,10 +5,10 @@ user-guide-title: Adobe CampaignTutorials
 user-guide-description: Adobe Campaign可讓行銷人員設計跨客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨管道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 39%
+source-wordcount: '300'
+ht-degree: 40%
 
 ---
 
@@ -59,8 +59,8 @@ ht-degree: 39%
       + [設定傳遞範本屬性](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [部署隨選電子郵件傳送範本](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + 疲勞管理{#fatigue-management}
-      + [使用類型規則](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [使用預先定義的篩選](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [類型規則](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [預先定義的篩選](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [配置和管理訂閱服務](/help/send-messages/configure-and-manage-subscription-services.md)
 + 流程管理和自動化{#process-management}
    + [建立工作流程](/help/process-management/create-a-workflow.md)
