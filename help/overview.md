@@ -6,7 +6,7 @@ feature: 概覽
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 20%
@@ -47,7 +47,7 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
       <img alt="建立和設計電子郵件傳送（影片）" src="./assets/333476.jpg" />
     </a>
     <div>
-      <a href="../content-creation/create-and-design-email-deliveries.md">
+      <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>建立及設計電子郵件傳遞</strong>
     </a>
     </div> 
@@ -60,7 +60,7 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
       <img alt="使用類型規則管理疲勞（影片）" src="./assets/333787.jpg" />
     </a>
     <div>
-      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.m">
+      <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
     <strong>使用類型規則管理疲勞</strong>
     </a>
     </div>
