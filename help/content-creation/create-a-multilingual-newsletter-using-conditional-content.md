@@ -1,6 +1,6 @@
 ---
 title: 使用條件式內容建立多語言電子報
-description: 透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
+description: 此影片以多語言電子報為範例，示範如何新增條件式內容至傳遞。
 feature: 動態內容
 kt: 7792
 thumbnail: 24926.jpg
@@ -10,18 +10,18 @@ team: TM
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 
 # 使用條件式內容建立多語言電子報
 
-透過設定條件式內容欄位，您可以建立進階的個人化。滿足特定條件時，便可以取代完整的文本區塊及/或影像。
+透過設定條件式內容欄位，您可以建立進階的個人化。滿足特定條件時，便可以取代完整的文字區塊及/或影像。
 
-透過多語言電子報範例，了解如何將條件式內容新增至傳遞。
+此影片以多語言電子報為範例，示範如何新增條件式內容至傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
