@@ -1,6 +1,6 @@
 ---
 title: 設計電子郵件以提供傳遞能力
-description: 了解如何將傳遞能力最佳實務套用至您的電子郵件傳遞。
+description: 瞭解如何將傳遞能力的最佳實務運用在電子郵件傳遞上。
 feature: 電子郵件、傳遞能力
 kt: 7849
 thumbnail: 333471.jpg
@@ -9,16 +9,16 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 
 # 設計電子郵件以提供傳遞能力
 
-了解如何將傳遞能力最佳實務套用至您的電子郵件傳遞。
+瞭解如何將傳遞能力的最佳實務運用在電子郵件傳遞上。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12)
 
