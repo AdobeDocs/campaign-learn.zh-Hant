@@ -1,7 +1,7 @@
 ---
 title: 設定動態內容
-description: 了解不同類型的動態內容，並了解如何建立個人化區塊和條件陳述式並套用至傳送。
-feature: 動態內容，個人化，電子郵件
+description: 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
+feature: 動態內容, 個人化, 電子郵件
 kt: 7789
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -14,14 +14,14 @@ hide: true
 hidefromtoc: true
 source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 設定動態內容
 
-了解不同類型的動態內容，並了解如何建立個人化區塊和條件陳述式並套用至傳送。
+瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
