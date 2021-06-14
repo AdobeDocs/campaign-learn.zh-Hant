@@ -11,8 +11,8 @@ role: Business Practitioner
 level: Beginner
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '37'
+ht-degree: 100%
 
 ---
 
