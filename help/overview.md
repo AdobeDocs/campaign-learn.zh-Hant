@@ -1,7 +1,7 @@
 ---
-title: Adobe Campaign V8Tutorials — 概觀
-description: Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和跨管道執行的環境。 本使用手冊包含了有關 Adobe Campaign Standard 許多功能的影片和教學課程。
-sub-product: 促銷活動V8
+title: Adobe Campaign V8 教學課程 – 概覽
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+sub-product: Campaign V8
 feature: 概覽
 role: Business Practitioner, Administrator, Developer
 level: Beginner
@@ -9,21 +9,21 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 18%
+ht-degree: 71%
 
 ---
 
-# Adobe Campaign V8Tutorials — 概觀
+# Adobe Campaign V8 教學課程 – 概覽
 
-Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和跨管道執行的環境。 本使用手冊包含有關Adobe Campaign V8許多功能的影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign V8 許多功能的相關影片和教學課程。
 
 >[!NOTE]
-> Campaign v8目前僅以受管理Cloud Service的形式提供，且無法部署在內部部署或混合環境中。 尚無法從現有Campaign Classicv7環境進行移轉。
->請參閱[傳統v7到V8產品檔案](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) ，深入了解這兩個版本之間的差異。 另請參閱[Campaign ClassicV7教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)一節，了解如何觀看影片。
+> Campaign V8 目前僅以 Managed Cloud Service 的形式提供，且無法部署在內部部署或混合環境中。 尚無法從現有 Campaign Classic V7 環境進行移轉。
+>請參閱 [Classic V7 至 V8 產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) ，深入瞭解這兩個版本之間的差異。 另請參閱 [Campaign Classic V7 教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)一節，觀看教學影片。
 
 ## 新增功能
 
-[主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[重要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
 
 ## 員工精選
 
@@ -73,11 +73,11 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="產生描述性分析報表" src="./assets/333994.jpg" />
+      <img alt="產生描述性分析報告" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>產生描述性分析報表</strong>
+    <strong>產生描述性分析報告</strong>
     </a>
     </div>
     <p>
