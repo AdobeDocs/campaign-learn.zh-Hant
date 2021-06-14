@@ -1,6 +1,6 @@
 ---
 title: 建立和管理設定檔
-description: 了解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
+description: 瞭解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
 feature: 設定檔
 kt: 7843
 thumbnail: 35611.jpg
@@ -10,7 +10,7 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
