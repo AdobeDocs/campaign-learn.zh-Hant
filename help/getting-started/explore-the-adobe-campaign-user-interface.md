@@ -1,6 +1,6 @@
 ---
 title: 探索 Adobe Campaign 使用者介面
-description: 了解Adobe Campaign使用者介面，並了解如何導覽主要功能。
+description: 瞭解 Adobe Campaign 使用者介面，並瞭解如何導覽至主要功能。
 feature: 概覽
 kt: 7828
 thumbnail: 35130.jpg
@@ -14,12 +14,12 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
 # 探索 Adobe Campaign 使用者介面
 
-了解Adobe Campaign使用者介面，並了解如何導覽主要功能。
+瞭解 Adobe Campaign 使用者介面，並瞭解如何導覽至主要功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
