@@ -3,14 +3,14 @@ title: 結合查詢結果以縮小目標範圍
 description: 瞭解如何使用交集或聯合活動在工作流程中結合查詢結果，以縮小目標範圍。
 feature: 工作流程、鎖定目標定位活動、查詢編輯器
 kt: 7844
-thumbnail: 334235.jpg
+thumbnail: 334304.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: e57b1ed15044245c668395c7ebbba72094083be1
+source-git-commit: 7505da93d6666780e91f2c6133d42204d9d6d2b7
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 瞭解如何使用&#x200B;**[!UICONTROL 交集]**&#x200B;或&#x200B;**[!UICONTROL 聯合]**&#x200B;活動，在工作流程中結合查詢結果，以縮小目標範圍。
 
->[!VIDEO](https://video.tv.adobe.com/v/334235?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
 ## 其他資源
 
