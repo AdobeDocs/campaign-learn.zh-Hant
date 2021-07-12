@@ -6,15 +6,15 @@ kt: 7982
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
 ---
-
 
 # 如何設定循環和持續的電子郵件行銷活動
 
@@ -34,13 +34,13 @@ ht-degree: 100%
 
 ![循環傳遞](/help/assets/delivery_recurring.jpg)
 
-## 如何設定循環傳遞 {#how-to-set-up-a-recurring-delivery}
+## 如何設定循環傳送 {#how-to-set-up-a-recurring-delivery}
 
 影片說明了如何設定循環傳遞和排程器活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## 如何設定持續傳遞 {#how-to-set-up-a-continuous-delivery}
+## 如何設定連續傳送 {#how-to-set-up-a-continuous-delivery}
 
 此影片說明如何使用增量查詢來設定持續傳遞。
 
