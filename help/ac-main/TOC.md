@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 95%
+source-wordcount: '296'
+ht-degree: 91%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 95%
 # Adobe Campaign V8 教學課程 {#tutorials}
 
 + [概覽](/help/overview.md)
-+ 快速入門 {#getting-started}
-   + [Adobe Campaign 簡介](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [安裝及設定Adobe Campaign用戶端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [探索 Adobe Campaign 使用者介面](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [管理行銷活動](/help/getting-started/manage-marketing-campaigns.md)
-   + [建立行銷計劃、方案和行銷活動](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [建立由事件觸發的行銷活動](/help/getting-started/create-event-triggered-campaigns.md)
++ 開始使用{#getting-started}
+   + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
+   + [安裝及設定Adobe Campaign用戶端](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [探索 Adobe Campaign 使用者介面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
+   + [建立行銷計劃、方案和行銷活動](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [建立由事件觸發的行銷活動](/help/get-started/create-event-triggered-campaigns.md)
 + 設定檔管理 {#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
    + [在工作流程中目標定位設定檔](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -65,12 +65,12 @@ ht-degree: 95%
 + 流程管理和自動化{#process-management}
    + [建立工作流程](/help/process-management/create-a-workflow.md)
    + [建立循環和持續傳遞](/help/process-management/recurring-deliveries.md)
-   + [建立目標定位工作流程](/help/process-management/create-a-targeting-workflow.md)
-   + [使用更新清單活動以建立具有工作流程的清單](/help/process-management/use-the-update-list-activity.md)
+   + [建立目標工作流程](/help/process-management/create-a-targeting-workflow.md)
    + [結合查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-combining-query-results.md)
    + [排除查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [建立驗證工作流程](/help/process-management/create-validation-workflows.md)
    + [管理核准](/help/process-management/manage-approvals.md)
+   + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
    + [設定擴充活動](/help/process-management/enrichment-activity.md)
 + 資料管理{#data-management}
    + [匯入設定檔](/help/data-management/import-profiles.md)
