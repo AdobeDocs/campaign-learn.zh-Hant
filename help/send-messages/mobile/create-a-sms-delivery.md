@@ -1,22 +1,22 @@
 ---
-title: 如何建立簡訊傳遞
-description: 瞭解如何建立簡訊傳遞。
-feature: 簡訊
+title: 如何建立簡訊傳送
+description: 了解如何建立簡訊傳送。
+feature: SMS
 kt: 7797
-thumbnail: 330982.jpg
+thumbnail: 335706.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+team: TM
+exl-id: 7a19b3a5-e736-41c4-a443-7110e0dd45cd
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '25'
-ht-degree: 100%
+ht-degree: 4%
 
 ---
 
+# 建立簡訊傳送
 
-# 建立簡訊傳遞
+了解如何建立簡訊傳送。
 
-瞭解如何建立簡訊傳遞。
-
->[!VIDEO](https://video.tv.adobe.com/v/330982)
+>[!VIDEO](https://video.tv.adobe.com/v/335706)
