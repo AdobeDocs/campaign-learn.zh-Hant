@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
+source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 91%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 91%
 + [概覽](/help/overview.md)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [安裝及設定Adobe Campaign用戶端](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [安裝及設定Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [探索 Adobe Campaign 使用者介面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
    + [建立行銷計劃、方案和行銷活動](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
