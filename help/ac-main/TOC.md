@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 91%
@@ -48,7 +48,7 @@ ht-degree: 91%
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊 {#sms}
-      + [建立簡訊傳送](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [建立簡訊傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送 {#push}
       + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用 Experience Platform Mobile SDK 設定推送頻道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
