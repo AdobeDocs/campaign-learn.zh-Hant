@@ -3,17 +3,17 @@ title: 使用條件式內容建立多語言電子報
 description: 此影片以多語言電子報為範例，示範如何新增條件式內容至傳遞。
 feature: 動態內容
 kt: 7792
-thumbnail: 24926.jpg
+thumbnail: 335682.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 此影片以多語言電子報為範例，示範如何新增條件式內容至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12)
 
 ## 其他資源
 
