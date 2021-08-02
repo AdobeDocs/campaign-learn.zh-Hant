@@ -1,6 +1,6 @@
 ---
 title: 排除查詢結果以縮小目標範圍
-description: 了解如何將標準排除套用至工作流程，以及如何建立預先定義的篩選條件，以及如何疑難排解您的工作流程，借此縮小目標範圍。
+description: 了解如何透過套用  標準排除。 了解如何建立預先定義的篩選條件，並疑難排解您的工作流程。
 feature: 工作流程、鎖定目標定位活動、查詢編輯器
 kt: 7845
 thumbnail: 335609.jpg
@@ -10,16 +10,16 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
+source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 46%
+source-wordcount: '96'
+ht-degree: 47%
 
 ---
 
 # 排除查詢結果以縮小目標範圍
 
-了解如何將&#x200B;**[!UICONTROL 標準排除]**&#x200B;套用至工作流程，以及如何建立預先定義的篩選條件，以及如何疑難排解您的工作流程，借此縮小目標範圍。
+了解如何透過套用  標準排除。 了解如何建立預先定義的篩選條件，並疑難排解您的工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
