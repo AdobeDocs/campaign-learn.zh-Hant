@@ -1,7 +1,6 @@
 ---
 title: 在工作流程中目標定位設定檔
-description: 瞭解如何使用行銷活動工作流程，並瞭解如何使用篩選條件建立工作流程，以及在工作流程中目標定位設定檔。
-feature: 工作流程
+description: 了解如何使用行銷活動工作流程，並了解如何建立工作流程，以及使用篩選條件來在工作流程中定位設定檔。
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,16 +8,16 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 45%
 
 ---
 
 # 在工作流程中目標定位設定檔
 
-瞭解如何使用行銷活動工作流程，並瞭解如何使用篩選條件建立工作流程，以及在工作流程中目標定位設定檔。
+了解如何使用行銷活動工作流程，並了解如何建立工作流程，以及使用篩選條件來在工作流程中定位設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
