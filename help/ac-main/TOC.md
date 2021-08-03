@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 91%
+ht-degree: 90%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 91%
    + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
    + [建立行銷計劃、方案和行銷活動](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [建立由事件觸發的行銷活動](/help/get-started/create-event-triggered-campaigns.md)
-+ 設定檔管理 {#profile-management}
++ 設定檔管理{#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
    + [在工作流程中目標定位設定檔](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campaign Orchestration {#campaign-orchestration}
++ Campaign 策劃 {#campaign-orchestration}
    + [執行行銷活動](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [多重和跨行銷活動簡介](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [建立多頻道行銷活動](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -72,7 +72,7 @@ ht-degree: 91%
    + [管理核准](/help/process-management/manage-approvals.md)
    + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
    + [設定擴充活動](/help/process-management/enrichment-activity.md)
-+ 資料管理{#data-management}
++ 資料管理 {#data-management}
    + [匯入設定檔](/help/data-management/import-profiles.md)
    + [資料複製](/help/data-management/data-replication.md)
 + 連結其他解決方案 {#connect}
