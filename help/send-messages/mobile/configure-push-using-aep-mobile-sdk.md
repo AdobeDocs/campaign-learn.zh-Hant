@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,5 @@ ht-degree: 100%
 
 
 ## 其他資源
-
-* [Adobe Experience Platform SDK 的 Campaign Classic 擴充功能](https://helpx-internal.corp.adobe.com/content/help/zh-Hant/campaign/kb/acc-aep-extension.html)
 
 * [在 Launch 中設定 Campaign Classic 擴充功能](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
