@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 本教學課程說明如何設定循環和持續傳遞，以及兩種方法之間的差異。
 
-## 循環和持續傳遞追蹤 {#recurring-and-continuous-delivery-tracking}
+## 循環和持續傳送追蹤 {#recurring-and-continuous-delivery-tracking}
 
 循環和持續傳遞在管理聯絡資料的方式上有所不同：
 
@@ -36,12 +36,12 @@ ht-degree: 100%
 
 ## 如何設定循環傳送 {#how-to-set-up-a-recurring-delivery}
 
-影片說明了如何設定循環傳遞和排程器活動。
+影片說明了如何設定循環傳送和排程器活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
 ## 如何設定連續傳送 {#how-to-set-up-a-continuous-delivery}
 
-此影片說明如何使用增量查詢來設定持續傳遞。
+此影片說明如何使用增量查詢來設定持續傳送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
