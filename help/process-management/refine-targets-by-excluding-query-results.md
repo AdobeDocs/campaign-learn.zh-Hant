@@ -1,6 +1,6 @@
 ---
 title: 排除查詢結果以縮小目標範圍
-description: 了解如何透過套用  標準排除。 了解如何建立預先定義的篩選條件，並疑難排解您的工作流程。
+description: 瞭解如何將標準排除套用至工作流程，藉此縮小目標範圍。 瞭解如何建立預先定義的篩選器，並疑難排解您的工作流程。
 feature: 工作流程、鎖定目標定位活動、查詢編輯器
 kt: 7845
 thumbnail: 335609.jpg
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
 source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
 # 排除查詢結果以縮小目標範圍
 
-了解如何透過套用  標準排除。 了解如何建立預先定義的篩選條件，並疑難排解您的工作流程。
+瞭解如何將標準排除套用至工作流程，藉此縮小目標範圍。 瞭解如何建立預先定義的篩選器，並疑難排解您的工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
