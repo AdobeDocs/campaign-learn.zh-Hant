@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客�
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 + [概覽](/help/overview.md)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [安裝及設定Adobe Campaign Client Console](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [安裝及設定 Adobe Campaign 用戶端主控台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [探索 Adobe Campaign 使用者介面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
    + [建立行銷計劃、方案和行銷活動](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊 {#sms}
-      + [建立簡訊傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [建立 SMS 傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送 {#push}
       + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用 Experience Platform Mobile SDK 設定推送頻道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
