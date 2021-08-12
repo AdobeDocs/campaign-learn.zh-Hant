@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 >[!NOTE]
 > Campaign V8 目前僅以 Managed Cloud Service 的形式提供，且無法部署在內部部署或混合環境中。 尚無法從現有 Campaign Classic V7 環境進行移轉。
->請參閱 [Classic V7 至 V8 產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) ，深入瞭解這兩個版本之間的差異。 另請參閱 [Campaign Classic V7 教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)一節，觀看教學影片。
+>請參閱 [Classic V7 至 V8 產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=zh-Hant) ，深入瞭解這兩個版本之間的差異。 另請參閱 [Campaign Classic V7 教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)一節，觀看教學影片。
 
 ## 新增功能
 
-[重要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[重要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
 
 ## 員工精選
 
@@ -31,7 +31,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 <tr>
   <td>
     <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-      <img alt="建立行銷計畫、方案和行銷活動（影片）" src="./assets/333810.jpg"/>
+      <img alt="建立行銷計畫、方案和行銷活動 (影片)" src="./assets/333810.jpg"/>
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
@@ -39,25 +39,25 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
     </a>
     </div>
     <p>
-    <em>了解如何建立行銷計畫、計畫和行銷活動。</em>
+    <em>瞭解如何建立行銷計畫、方案和行銷活動。</em>
     <p>
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="建立和設計電子郵件傳送（影片）" src="./assets/333476.jpg" />
+      <img alt="建立和設計電子郵件傳送 (影片)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>建立及設計電子郵件傳遞</strong>
+    <strong>建立及設計電子郵件傳送</strong>
     </a>
     </div> 
     <p>
-    <em>瞭解建立電子郵件傳遞的流程，並瞭解如何設計和個人化電子郵件內容。</em>
+    <em>瞭解建立電子郵件傳送的流程，並瞭解如何設計和個人化電子郵件內容。</em>
     <p>
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="使用類型規則管理疲勞（影片）" src="./assets/333787.jpg" />
+      <img alt="使用類型規則管理疲勞 (影片)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
@@ -65,7 +65,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
     </a>
     </div>
     <p>
-    <em>了解如何使用類型規則在Adobe Campaign中實作疲勞管理。  </em>
+    <em>瞭解如何使用篩選器在 Adobe Campaign 中實施疲勞管理。</em>
     <p>
   </td>
 </tr>
@@ -81,7 +81,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
     </a>
     </div>
     <p>
-    <em>了解如何從工作流程產生[!UICONTROL描述性分析報表]。</em>
+    <em>瞭解如何從工作流程產生描述性分析報告。</em>
     <p>
   </td>
 
@@ -89,4 +89,4 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 其他資源
 
-* [文件](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [文件](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hant)
