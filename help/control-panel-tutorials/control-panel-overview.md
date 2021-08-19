@@ -8,7 +8,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 04659ac7587f21644110bdb4c2c2bf65bc5a49c6
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 54%
@@ -37,11 +37,11 @@ Adobe Campaign控制面板可讓Adobe Campaign管理員監控關鍵資產並執�
     <p>
   </td>
   <td>
-    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
       <img alt="連接到 SFTP 伺服器" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
     <strong>產生並安裝資料加密所需的GPG金鑰</strong>
     </a>
     </div>
