@@ -6,10 +6,10 @@ feature: 概覽
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 047d3143f879e3d916505cbb26c88c0549ac5ccb
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 84%
+source-wordcount: '380'
+ht-degree: 77%
 
 ---
 
@@ -27,6 +27,10 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 ## 新增功能
 
 概述Adobe Campaign v8的[關鍵功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)。
+
+* **[控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+
+   *了解如何監控關鍵資產並執行管理工作，例如依執行個體管理SFTP儲存、允許清單IP位址或管理GPG金鑰。*
 
 ## 員工精選
 
