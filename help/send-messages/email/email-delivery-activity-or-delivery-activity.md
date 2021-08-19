@@ -1,14 +1,14 @@
 ---
-title: 電子郵件傳遞活動與 Adobe Campaign Classic 中傳遞活動的比較
+title: 電子郵件傳遞活動與傳遞活動
 description: 本影片說明如何設定和使用傳遞範本。
 feature: 傳遞範本
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## 其他資源{#additional-resources}
+## 其他資源 {#additional-resources}
 
 * [關於範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hant)
 * [建立傳遞範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hant)
