@@ -9,26 +9,22 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 35%
+source-wordcount: '222'
+ht-degree: 32%
 
 ---
 
 # 開始使用[!UICONTROL 控制面板] {#control-panel}
-
->[!NOTE]
->
-> 所有管理員使用者都可存取控制面板。 授予使用者管理員存取權的步驟在[產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hant#discover-control-panel)中詳細說明。
->
-> 您的執行個體必須托管在AWS上，並升級為最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=zh-Hant)組建或最新的[GA組建(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes)。 在[本章節](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中瞭解如何確認您的版本。 若要檢查您的執行個體是否託管在 AWS 上，請按照[本頁面](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)詳述的步驟操作。
 
 [!UICONTROL 控制面板]可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依執行個體管理[!DNL SFTP]儲存、管理[!DNL GPG]金鑰或[!UICONTROL 子網域]和[!UICONTROL 憑證]。
 
 本文說明如何存取控制面板，以及使用控制面板的先決條件。
 
 ## 存取[!UICONTROL 控制面板]
+
+所有管理員使用者都可存取控制面板。 授予使用者管理員存取權的步驟在[產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)中詳細說明。
 
 若要存取「控制面板」，請前往「Experience Cloud首頁」：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
