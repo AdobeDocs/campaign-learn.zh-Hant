@@ -5,7 +5,7 @@ feature: 控制面板
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 31%
@@ -18,7 +18,7 @@ GPG (GnuPG) 使用非對稱的單一金鑰組加密訊息。若要使用[!DNL Ca
 
 了解如何在指定的[!DNL Campaign]執行個體產生和安裝公開/私用金鑰組。
 
-1. [產生並安裝資料加密所需的GPG金鑰](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [產生並安裝資料加密所需的GPG金鑰](./generate-and-install-gpg-keys.md)
 2. [使用GPG金鑰加密資料](./use-a-gpg-key-to-encrypt-data.md)
 3. [解密資料](./decrypt-data.md)
 
