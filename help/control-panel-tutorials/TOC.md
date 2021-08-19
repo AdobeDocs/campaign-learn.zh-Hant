@@ -7,10 +7,10 @@ index: true
 feature: 控制面板
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [開始使用「控制面板」](/help/control-panel-tutorials/get-started.md)
 + SFTP 管理{#sftp-management}
    + [監視伺服器容量](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [新增IP範圍至允許清單](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [允許清單IP範圍](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [產生SSH金鑰](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [連線至SFTP伺服器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 執行個體設定 {#instance-settings}
-   + [新增IP位址以允許清單](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [允許清單IP地址](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [新增URL權限](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG 金鑰管理 {#gpg-key-management}
       + [概覽](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
