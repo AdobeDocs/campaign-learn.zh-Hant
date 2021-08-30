@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客�
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 96%
 # Adobe Campaign V8 教學課程 {#tutorials}
 
 + [概覽](/help/overview.md)
-+ [Campaign v8的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
++ [Campaign v8 的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
    + [安裝及設定 Adobe Campaign 用戶端主控台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
@@ -86,4 +86,4 @@ ht-degree: 96%
    + [工作流程熱度圖](/help/monitoring/workflow-heatmap.md)
    + [稽核軌跡](/help/monitoring/audit-trail.md)
 + 管理員 {#administration}
-   + [控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)
+   + [控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
