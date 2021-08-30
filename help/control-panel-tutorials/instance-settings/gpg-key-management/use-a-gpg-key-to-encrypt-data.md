@@ -1,5 +1,5 @@
 ---
-title: '使用GPG金鑰加密資料 '
+title: '使用 GPG 金鑰加密資料 '
 description: 瞭解如何使用安裝在控制面板的 GPG 金鑰匯出資料。
 feature: 控制面板
 kt: 8518
@@ -10,13 +10,13 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# 使用GPG金鑰加密資料
+# 使用 GPG 金鑰加密資料
 
 瞭解如何使用安裝在控制面板的 GPG 金鑰匯出資料。
 
