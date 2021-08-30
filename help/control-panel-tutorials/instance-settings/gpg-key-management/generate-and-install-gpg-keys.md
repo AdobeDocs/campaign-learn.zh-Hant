@@ -1,6 +1,6 @@
 ---
-title: 產生及安裝GPG金鑰
-description: 了解如何在Campaign執行個體產生和安裝公開/私用金鑰組，以加密資料。
+title: 產生及安裝 GPG 金鑰
+description: 瞭解如何在 Campaign 執行個體產生和安裝公開/私用金鑰組，以進行資料加密。
 feature: 控制面板
 kt: 8517
 thumbnail: 36386.jpg
@@ -10,15 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
-# 產生及安裝GPG金鑰
+# 產生及安裝 GPG 金鑰
 
-了解如何在[!DNL Campaign]執行個體產生和安裝公開/私用金鑰組，以進行資料加密。
+瞭解如何在 [!DNL Campaign] 執行個體產生和安裝公開/私用金鑰組，以進行資料加密。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
