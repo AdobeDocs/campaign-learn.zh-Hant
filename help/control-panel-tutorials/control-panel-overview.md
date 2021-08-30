@@ -1,7 +1,7 @@
 ---
 title: 控制面板 - 概觀
-description: 「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依執行個體管理SFTP儲存、允許列出IP位址或管理GPG金鑰。
-landing-page-description: Adobe Campaign控制面板可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依執行個體管理SFTP儲存、允許清單IP位址或管理GPG金鑰。
+description: 「控制面板」可以讓 Adobe Campaign 管理員監視關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、允許列出 IP 地址或管理 GPG 金鑰。
+landing-page-description: Adobe Campaign 控制面板可讓 Adobe Campaign 管理員監視關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、允許列出 IP 地址或管理 GPG 金鑰。
 feature: 控制面板
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # 控制面板 - 概觀
 
-「控制面板」可讓Adobe Campaign管理員監控關鍵資產並執行管理工作，例如依執行個體管理SFTP儲存、允許列出IP位址或管理GPG金鑰。
+「控制面板」可以讓 Adobe Campaign 管理員監視關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、允許列出 IP 地址或管理 GPG 金鑰。
 
 ## 員工精選
 
@@ -29,11 +29,11 @@ ht-degree: 41%
     </a>
     <div>
       <a href="./get-started.md">
-    <strong>控制面板快速入門</strong>
+    <strong>開始使用控制面板</strong>
     </a>
     </div>
     <p>
-    <em>了解如何存取控制面板，以及使用控制面板的先決條件。  </em>
+    <em>瞭解如何存取控制面板，以及使用控制面板的先決條件。 </em>
     <p>
   </td>
   <td>
@@ -42,11 +42,11 @@ ht-degree: 41%
     </a>
     <div>
       <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
-    <strong>產生並安裝資料加密所需的GPG金鑰</strong>
+    <strong>產生並安裝資料加密所需的 GPG 金鑰</strong>
     </a>
     </div>
     <p>
-    <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
+    <em>瞭解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
     <p>
   </td>
   <td>
