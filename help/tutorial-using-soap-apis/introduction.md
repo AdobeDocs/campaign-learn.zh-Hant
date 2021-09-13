@@ -4,9 +4,10 @@ description: 了解如何使用Adobe Campaign Soap API，並建立進階的傳�
 feature: API
 kt: 7772
 thumbnail: 336639.jpg
+doc-type: intro video
 role: Admin, Developer
 level: Experienced
-source-git-commit: 8de1ac833bd1c5d3298f45cacca1f0ead4c77fb3
+source-git-commit: 046ebad1098137d46327eeca216052feccb8f720
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
