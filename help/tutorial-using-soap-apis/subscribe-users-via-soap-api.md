@@ -4,7 +4,6 @@ description: 了解如何使用SOAP API呼叫建立電子報服務及訂閱收�
 feature: API
 kt: 8165
 thumbnail: 336538.jpg
-type: feature video
 role: Admin, Developer
 level: Experienced
 source-git-commit: d68fc50e574567059e38b644ba7a3275ce3a21fc

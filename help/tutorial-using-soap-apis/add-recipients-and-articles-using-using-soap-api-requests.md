@@ -4,7 +4,6 @@ description: 了解如何使用Campaign SOAP API建立新收件者。 了解如�
 feature: API
 kt: 8164
 thumbnail: 336386.jpg
-type: feature video
 role: Admin, Developer
 level: Experienced
 source-git-commit: d68fc50e574567059e38b644ba7a3275ce3a21fc
