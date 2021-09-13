@@ -5,8 +5,8 @@ breadcrumb-title: 使用Campaign SOAP API
 breadcrumb-url: /docs/campaign-learn/using-soap-apis/introduction.html
 source-git-commit: ee6980355860a0fee79bbdfd3f11533e287b7f21
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '48'
+ht-degree: 2%
 
 ---
 
