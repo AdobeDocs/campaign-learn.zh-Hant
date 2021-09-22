@@ -3,9 +3,9 @@ user-guide-title: 使用Campaign SOAP API
 user-guide-description: 了解如何使用Adobe Campaign Soap API，並建立進階的傳送工作流程。
 breadcrumb-title: 使用Campaign SOAP API
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
+source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 + [步驟1 — 開始使用SOAP API](/help/tutorial-using-soap-apis/get-started-with-soap-apis.md)
 + [步驟2 — 使用SOAP API請求新增收件者和文章](/help/tutorial-using-soap-apis/add-recipients-and-articles-using-using-soap-api-requests.md)
 + [步驟3 — 透過SOAP API訂閱使用者](/help/tutorial-using-soap-apis/subscribe-users-via-soap-api.md)
-+ 步驟4 — 為訂閱者建立「新文章警報」電子郵件傳送{#article-alert-email}
-   + [為訂閱者建立「新文章警報」電子郵件傳送](/help/tutorial-using-soap-apis/create-article-alert-email-overview.md)
-   + [查詢文章和收件者訂閱值](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [加入欄並傳送電子郵件傳送](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
++ 步驟4 — 建立文章警報傳送{#article-alert-email}
+   + [建立文章警報傳送](/help/tutorial-using-soap-apis/create-article-alert-delivery-overview.md)
+   + [第1部分 — 查詢文章和收件者訂閱值](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
+   + [第2部分 — 加入欄並傳送電子郵件](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
