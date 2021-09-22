@@ -1,5 +1,5 @@
 ---
-title: 為訂閱者建立「新文章警報」電子郵件傳送 — 概觀
+title: 建立文章警報傳送 — 概觀
 description: 了解如何建立工作流程，透過電子郵件傳送，向收件者提示他們訂閱的任何新文章。
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 為訂閱者建立「新文章警報」電子郵件傳送 — 概觀
+# 建立文章警報傳送 — 概觀
 
 了解如何建立工作流程，透過電子郵件傳送，向收件者提示他們訂閱的任何新文章。
 
