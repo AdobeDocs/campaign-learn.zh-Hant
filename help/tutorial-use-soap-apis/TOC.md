@@ -2,8 +2,8 @@
 user-guide-title: 使用Campaign SOAP API
 user-guide-description: 了解如何使用Adobe Campaign Soap API，並建立進階的傳送工作流程。
 breadcrumb-title: 使用Campaign SOAP API
-breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
+breadcrumb-url: /campaign-learn/use-soap-apis/introduction.html
+source-git-commit: 475a1e30c2aa0c65eb1644e6d84f7544b684bde1
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
