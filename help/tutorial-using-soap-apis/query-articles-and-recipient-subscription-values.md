@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 3d4412fb770d998171a2c3713e1b8a4d9422ac8e
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-下一步：[加入欄並傳送電子郵件傳送](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md))
+下一步：[加入欄並傳送電子郵件傳送](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
