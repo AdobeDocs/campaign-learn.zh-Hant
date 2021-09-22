@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 20dc3aa4b30d8b6ee1d87b10607fb24afc09292a
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,5 @@ ht-degree: 0%
 
 *使用不同定位和篩選維度來查詢資料，以及如何使用交集來連結輸出。*
 
-**步驟2:** [加入欄並傳送電子郵件傳送](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
-
-*了解如何加入兩個區段，並將透過API收到的文章資訊新增個人化電子郵件傳送至上一步建立的電子報訂閱工作流程。*
+**步驟2:** [傳送傳遞給訂閱的收](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+*件者了解如何加入資料兩個區段、建立文章警報電子郵件，以及根據從外部API收到的資料進行個人化。*

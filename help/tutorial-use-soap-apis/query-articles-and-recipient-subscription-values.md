@@ -9,7 +9,7 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-下一步：[加入欄並傳送電子郵件傳送](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+下一步：[傳送傳遞給已訂閱的收件者](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
