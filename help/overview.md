@@ -2,14 +2,14 @@
 title: Adobe Campaign V8 教學課程 – 概覽
 description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 sub-product: Campaign V8
-feature: 概覽
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+source-git-commit: 3469a37e5142174d9dd69272397a7854bc1674fa
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,9 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[教學課程：在工作流程中使用SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+
+   *了解如何使用Adobe Campaign Soap API，並根據透過API收到的資料，建立進階的傳送工作流程。*
 * **[控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=zh-Hant)**
 
    *瞭解如何監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、允許清單 IP 位址或管理 GPG 金鑰。*
