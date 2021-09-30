@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 96%
+source-wordcount: '338'
+ht-degree: 93%
 
 ---
 
@@ -80,6 +80,7 @@ ht-degree: 96%
 + 連結其他解決方案 {#connect}
    + [Snowflake 上的巨量資料管理](/help/connect/big-data-segmentation-on-snowflake.md)
    + [與 Dynamics 365 整合](/help/connect/dynamics365-integration.md)
+   + [與Experience Platform整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
 + 報告{#reporting}
    + [存取內建報吿](/help/reporting/access-built-in-reports.md)
    + [產生描述性分析報告](/help/reporting/generate-a-descriptive-analysis-report.md)
