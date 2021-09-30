@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Experience Platform上的來源連線Campaign資料
+title: 在Adobe Experience Platform上使用S3作為來源連線Campaign資料
 description: 了解如何使用Experience Platform中的來源連接器內嵌資料，以使用匯出的行銷活動記錄更新設定檔資料。
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 
-# 使用Adobe Experience Platform上的來源連線Campaign資料
+# 在Adobe Experience Platform上使用S3作為來源連線Campaign資料
 
 了解如何使用Experience Platform中的來源連接器內嵌資料，以使用匯出的行銷活動記錄更新設定檔資料。
 
