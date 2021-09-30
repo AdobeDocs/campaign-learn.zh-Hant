@@ -3,7 +3,7 @@ user-guide-title: 與Experience Platform整合
 user-guide-description: 了解如何匯入和匯出Campaign和Experience Cloud資料，以便兩個解決方案之間通訊。
 breadcrumb-title: 與Experience Platform整合
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.html
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 與Experience Platform整合 {#experience-platform-data-integration}
 
-+ [簡介](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [概覽](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [將Experience Platform資料匯入Campaign]{#import-experience-platform-data-into-campaign}
    + [將促銷活動連線至Experience Platform作為目的地](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [從Experience Platform匯入收件者資料並傳送電子郵件](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
