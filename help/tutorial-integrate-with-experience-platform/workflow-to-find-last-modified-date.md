@@ -1,6 +1,6 @@
 ---
-title: 建立導出工作流（第1部分） — 查找收件人清單的上次修改日期
-description: 在建立匯出工作流程教學課程的第一部分，了解如何建立工作流程，以尋找從Experience Platform區段建立的收件者清單的上次修改日期。
+title: 建立匯出工作流程 (第一部分)— 尋找收件人清單的最後修改日期
+description: 在建立匯出工作流程的教學課程第一部分，了解如何建立工作流程，尋找從 Experience Platform 區段建立的收件者清單的最後修改日期。
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 建立導出工作流（第1部分） — 查找收件人清單的上次修改日期
+# 建立匯出工作流程 (第一部分)— 尋找收件人清單的最後修改日期
 
-在建立匯出工作流程教學課程的第一部分，了解如何建立工作流程，以尋找從Experience Platform區段建立的收件者清單的上次修改日期。
+在建立匯出工作流程的教學課程第一部分，了解如何建立工作流程，尋找從 Experience Platform 區段建立的收件者清單的最後修改日期。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
 ## 資產
 
-建立日期範圍的JavaScript:
+利用 JavaScript 建立日期範圍：
 
 ```java
  var DEFAULT_LOOKBACK_DAYS = 90;
@@ -64,4 +64,4 @@ ht-degree: 0%
 
 ## 下一部影片
 
-[建立匯出工作流程（第2部分） — 擷取、格式化資料並儲存至外部帳戶](extract-format-save-data-to-external-account.md)
+[建立匯出工作流程 (第二部分)— 擷取、格式化資料並儲存至外部帳戶](extract-format-save-data-to-external-account.md)
