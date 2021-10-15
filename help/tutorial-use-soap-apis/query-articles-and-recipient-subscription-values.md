@@ -1,6 +1,6 @@
 ---
 title: 查詢文章和收件者訂閱值
-description: 了解如何使用不同的定位和篩選維度來查詢資料，以及如何使用交集來連結輸出，以利建立自動化內容摘要傳送的使用案例。
+description: 了解如何使用不同的定位和篩選維度來查詢資料，以及如何使用交集來聯結輸出，以利建立自動化內容摘要傳遞的使用案例。
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8166
 thumbnail: 336537.jpg
@@ -9,17 +9,17 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # 查詢文章和收件者訂閱值
 
-了解如何使用不同的定位和篩選維度來查詢資料，以及如何使用交集來連結輸出，以利建立自動化內容摘要傳送的使用案例。
+了解如何使用不同的定位和篩選維度來查詢資料，以及如何使用交集來聯結輸出，以利建立自動化內容摘要傳遞的使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
