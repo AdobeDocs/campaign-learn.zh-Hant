@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: ht
-source-wordcount: '424'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[建立和擴充結構](/help/data-management/create-and-extend-a-schema.md)**
+
+   *了解如何建立新結構和擴充現有結構。*
+
 * **[與 Experience Platform 整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)**
 
    *了解如何匯入和匯出 Campaign 和 Experience Cloud 資料，以利兩個解決方案之間的通訊。*
@@ -34,9 +38,6 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
    *了解如何使用 Adobe Campaign Soap API，並根據透過 API 收到的資料，建立進階傳遞工作流程。*
 
-* **[控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=zh-Hant)**
-
-   *瞭解如何監控關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、允許清單 IP 位址或管理 GPG 金鑰。*
 
 ## 員工精選
 
