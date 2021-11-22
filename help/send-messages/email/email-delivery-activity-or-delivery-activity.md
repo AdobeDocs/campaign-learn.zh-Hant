@@ -1,14 +1,14 @@
 ---
 title: 電子郵件傳送活動與傳送活動
 description: 本影片說明如何設定和使用傳遞範本。
-feature: 傳遞範本
+feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '133'
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---

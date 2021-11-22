@@ -1,7 +1,7 @@
 ---
 title: 建立多頻道行銷活動
 description: 瞭解如何根據收件者偏好的頻道，使用電子郵件、SMS 和直接郵件傳送，建立多頻道行銷活動。
-feature: 工作流程
+feature: Workflows
 kt: 7794
 thumbnail: 335440.jpg
 doc-type: feature video
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '92'
+exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
-
-# 建立多管道行銷活動
+# 建立多頻道行銷活動
 
 在多頻道行銷活動中，單一行銷通訊使用多個頻道來觸及更廣的目標對象。 頻道獨立，彼此之間沒有連線，這表示客戶會停留在一個工作流程中的一個頻道。
 

@@ -1,7 +1,7 @@
 ---
 title: 建立目標定位工作流程
 description: 瞭解如何使用目標工作流程定義數個傳遞目標。
-feature: 工作流程、鎖定目標定位活動、查詢編輯器
+feature: Workflows, Targeting Activity, Query Editor
 kt: 7980
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ role: User
 level: Beginner
 exl-id: 5a8382f0-0662-46cd-90ff-aaf27a7c4fd9
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '52'
+workflow-type: tm+mt
+source-wordcount: '47'
 ht-degree: 100%
 
 ---

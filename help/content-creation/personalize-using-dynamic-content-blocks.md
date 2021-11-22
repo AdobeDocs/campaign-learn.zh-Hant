@@ -1,7 +1,7 @@
 ---
 title: 使用動態內容區塊個人化電子郵件
 description: 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳遞內容。
-feature: 動態內容
+feature: Dynamic Content
 kt: 7941
 thumbnail: 24924
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '121'
+workflow-type: tm+mt
+source-wordcount: '119'
 ht-degree: 100%
 
 ---

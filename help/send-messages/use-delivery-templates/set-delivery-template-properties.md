@@ -1,7 +1,7 @@
 ---
 title: 設定傳遞範本屬性
 description: 瞭解如何設定傳遞範本屬性。
-feature: 傳遞範本
+feature: Delivery Templates
 kt: 7964
 thumbnail: 24067.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin
 level: Beginner
 exl-id: 25ec67b4-62a5-4bcc-8bd0-8655e463366a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '31'
+workflow-type: tm+mt
+source-wordcount: '29'
 ht-degree: 100%
 
 ---

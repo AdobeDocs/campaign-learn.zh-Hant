@@ -1,7 +1,7 @@
 ---
 title: 執行行銷活動
 description: 瞭解如何執行行銷活動、檢閱電子郵件傳遞和傳遞屬性。
-feature: 行銷活動, 電子郵件
+feature: Campaigns, Email
 kt: 7786
 thumbnail: 334908.jpg
 doc-type: feature video
@@ -9,13 +9,13 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '36'
+exl-id: 39dcdffe-9e7e-44bf-b820-c32a4b6c1962
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '34'
 ht-degree: 100%
 
 ---
-
 
 # 執行行銷活動
 

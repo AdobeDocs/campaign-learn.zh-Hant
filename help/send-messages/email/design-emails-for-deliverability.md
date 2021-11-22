@@ -1,7 +1,7 @@
 ---
 title: 設計電子郵件以提供傳遞能力
 description: 瞭解如何將傳遞能力的最佳實務運用在電子郵件傳遞上。
-feature: 電子郵件、傳遞能力
+feature: Email, Deliverability
 kt: 7849
 thumbnail: 333471.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ role: User
 level: Beginner
 exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '44'
+workflow-type: tm+mt
+source-wordcount: '42'
 ht-degree: 100%
 
 ---

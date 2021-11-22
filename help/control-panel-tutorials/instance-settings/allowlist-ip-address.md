@@ -1,8 +1,8 @@
 ---
 title: 允許清單 IP 地址
 description: 瞭解如何將 IP 範圍新增至 Campaign 執行個體的允許清單，以及如何使用控制面板從允許清單中移除這些 IP 範圍。
-seo-description: 下面的影片說明如何透過允許列出 IP 位址範圍，以設定與執行個體的新連線。
-feature: 控制面板
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 8515
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -10,9 +10,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '208'
+exl-id: 0d5b1733-e6c4-461f-bd15-743fb664ae74
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '187'
 ht-degree: 100%
 
 ---

@@ -3,7 +3,7 @@ user-guide-title: 開始使用 Android™ 推播通知
 user-guide-description: 本教學課程將逐步引導您完成從 Adobe Campaign 傳送推播通知到 Android 應用程式的步驟。
 breadcrumb-title: 開始使用 Android 推播通知
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 

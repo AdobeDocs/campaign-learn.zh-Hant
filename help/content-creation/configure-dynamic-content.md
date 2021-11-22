@@ -1,7 +1,7 @@
 ---
 title: 設定動態內容
 description: 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
-feature: 動態內容, 個人化, 電子郵件
+feature: Dynamic Content, Personalization, Email
 kt: 7789
 thumbnail: 335734.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: 3f73019c23dad58d7246cf7fc5d200949a756d23
-workflow-type: ht
-source-wordcount: '65'
+exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '61'
 ht-degree: 100%
 
 ---

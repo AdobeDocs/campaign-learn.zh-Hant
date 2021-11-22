@@ -1,7 +1,7 @@
 ---
 title: 建立和管理設定檔
 description: 瞭解如何存取設定檔資料、排序和篩選設定檔，以及手動建立和管理設定檔。了解應該遵守一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的規定。
-feature: 設定檔
+feature: Profiles
 kt: 7843
 thumbnail: 334111.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '81'
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---

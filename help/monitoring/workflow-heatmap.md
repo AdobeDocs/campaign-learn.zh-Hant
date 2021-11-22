@@ -1,7 +1,7 @@
 ---
 title: 工作流程熱度圖
 description: 瞭解如何監控執行個體的負載，並據此規劃工作流程排程。
-feature: 熱度圖
+feature: Heatmap
 kt: 7970
 doc-type: feature video
 activity: understand
@@ -10,8 +10,8 @@ role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '35'
+workflow-type: tm+mt
+source-wordcount: '34'
 ht-degree: 100%
 
 ---
