@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
+source-git-commit: fb36cc755154d4567a68ef8312b14e35d83d81e4
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 92%
 
 ---
@@ -76,7 +76,6 @@ ht-degree: 92%
       + [設定傳遞的核准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [在工作流程中建立核准活動](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + 資料管理 {#data-management}
-   + [管理核准](/help/process-management/manage-approvals.md)
    + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
    + [設定擴充活動](/help/process-management/enrichment-activity.md)
    + [建立和擴充結構](/help/data-management/create-and-extend-a-schema.md)
