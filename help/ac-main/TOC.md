@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 93%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 93%
 + 流程管理和自動化{#process-management}
    + [建立工作流程](/help/process-management/create-a-workflow.md)
    + [建立循環和持續傳遞](/help/process-management/recurring-deliveries.md)
-   + [建立目標工作流程](/help/process-management/create-a-targeting-workflow.md)
-   + [結合查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [排除查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [管理核准](/help/process-management/manage-approvals.md)
-   + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
+   + 目標工作流程 {#targeting workflows}
+      + [建立目標工作流程](/help/process-management/create-a-targeting-workflow.md)
+      + [結合查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [排除查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + 核准和驗證工作流程 {#create-approvals-and-validation-workflows}
+   + [如何使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
    + [設定擴充活動](/help/process-management/enrichment-activity.md)
-   + 建立核准驗證工作流程 {#create-validation-workflows}
+      + [簡介](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [管理核准](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [設定促銷活動的核准](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [設定傳遞的核准](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [在工作流程中建立核准程式](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + 資料管理 {#data-management}
+   + [管理核准](/help/process-management/manage-approvals.md)
+   + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
+   + [設定擴充活動](/help/process-management/enrichment-activity.md)
    + [建立和擴充結構](/help/data-management/create-and-extend-a-schema.md)
    + [匯入設定檔](/help/data-management/import-profiles.md)
    + [資料複製](/help/data-management/data-replication.md)
