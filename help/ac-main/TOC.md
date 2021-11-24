@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
+source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 91%
+source-wordcount: '364'
+ht-degree: 92%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
    + [設定登陸頁面](/help/content-creation/configure-landingpages.md)
 + 傳送訊息{#sending-messages}
    + 電子郵件 {#email}
-      + [傳送及驗證電子郵件傳遞的校樣 ](/help/send-messages/email/send-and-validate-proofs.md)
+      + [傳送及驗證電子郵件傳遞的校樣](/help/send-messages/email/send-and-validate-proofs.md)
       + [使用控制組](/help/send-messages/email/use-control-groups.md)
       + [疑難排解電子郵件傳遞問題](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -70,8 +70,6 @@ ht-degree: 91%
       + [結合查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-combining-query-results.md)
       + [排除查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-excluding-query-results.md)
    + 核准和驗證工作流程 {#create-approvals-and-validation-workflows}
-   + [如何使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
-   + [設定擴充活動](/help/process-management/enrichment-activity.md)
       + [簡介](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [管理核准](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [設定促銷活動的核准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
