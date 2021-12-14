@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '388'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[具有FFDA的API測試機制](/help/data-management/api-staging-mechanism.md)**
+
+   *了解完整FDA的API測試機制如何運作。*
+
 * **[建立和擴充結構](/help/data-management/create-and-extend-a-schema.md)**
 
    *了解如何建立新結構和擴充現有結構。*
@@ -33,10 +37,6 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 * **[與 Experience Platform 整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)**
 
    *了解如何匯入和匯出 Campaign 和 Experience Cloud 資料，以利兩個解決方案之間的通訊。*
-
-* **[教學課程：在工作流程中使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=zh-Hant)**
-
-   *了解如何使用 Adobe Campaign Soap API，並根據透過 API 收到的資料，建立進階傳遞工作流程。*
 
 
 ## 員工精選
