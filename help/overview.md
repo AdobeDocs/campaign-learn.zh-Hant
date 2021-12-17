@@ -8,8 +8,8 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,9 +30,9 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
    *了解完整FDA的API測試機制如何運作。*
 
-* **[建立和擴充結構](/help/data-management/create-and-extend-a-schema.md)**
+* **[建立和擴充方案](/help/data-management/create-and-extend-a-schema.md)**
 
-   *了解如何建立新結構和擴充現有結構。*
+   *瞭解如何建立新方案和擴充現有方案。*
 
 * **[與 Experience Platform 整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)**
 
