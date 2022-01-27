@@ -6,10 +6,11 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
+recommendations: noDisplay, noCatalog
+source-git-commit: 69e794119c4f3e8d455c7300b23ca75350e28154
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '388'
+ht-degree: 96%
 
 ---
 
@@ -26,9 +27,9 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[具有FFDA的API測試機制](/help/data-management/api-staging-mechanism.md)**
+* **[帶FFDA的API分級機制](/help/data-management/api-staging-mechanism.md)**
 
-   *了解完整FDA的API測試機制如何運作。*
+   *瞭解API轉移機制與完整FDA的工作原理。*
 
 * **[建立和擴充方案](/help/data-management/create-and-extend-a-schema.md)**
 
