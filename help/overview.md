@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 93%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[更改資料源](/help/data-management/change-data-source.md)**
+
+   *瞭解如何使用「更改資料源活動」更改工作流工作表的資料源，以靈活管理不同資料源（如FDA、FFDA和本地資料庫）的資料。*
+
+* **[工作流資料管理的基礎](/help/data-management/data-management-fundamentals.md)**
+
+   *瞭解以維和工作表為目標是什麼，以及Adobe Campaign如何跨不同資料源管理資料。*
+
 * **[帶FFDA的API分級機制](/help/data-management/api-staging-mechanism.md)**
 
    *瞭解API轉移機制與完整FDA的工作原理。*
-
-* **[建立和擴充方案](/help/data-management/create-and-extend-a-schema.md)**
-
-   *瞭解如何建立新方案和擴充現有方案。*
-
-* **[與 Experience Platform 整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)**
-
-   *了解如何匯入和匯出 Campaign 和 Experience Cloud 資料，以利兩個解決方案之間的通訊。*
-
 
 ## 員工精選
 
