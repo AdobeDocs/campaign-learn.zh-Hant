@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,3 @@ ht-degree: 100%
 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳遞內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
-
-## 其他資源
-
-* [使用個人化欄位個人化電子郵件](/help/content-creation/personalize-emails-using-personalization-fields.md)
-* [使用條件式內容建立多語言電子報](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

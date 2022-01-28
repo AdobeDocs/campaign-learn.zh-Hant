@@ -6,9 +6,9 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ GPG (GnuPG) 使用非對稱的單一金鑰組加密訊息。若要使用 [!DNL C
 1. [產生並安裝用於資料加密的 GPG 金鑰](./generate-and-install-gpg-keys.md)
 2. [使用 GPG 金鑰加密資料](./use-a-gpg-key-to-encrypt-data.md)
 3. [解密資料](./decrypt-data.md)
-
-## 其他資源：
-
-* [GPG 金鑰管理 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=zh-Hant)

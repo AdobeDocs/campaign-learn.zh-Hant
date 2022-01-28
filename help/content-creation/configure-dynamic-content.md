@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ ht-degree: 100%
 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
-
-## 其他資源
-
-* [使用動態內容區塊製作個人化電子郵件](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [使用個人化欄位個人化電子郵件](/help/content-creation/personalize-emails-using-personalization-fields.md)

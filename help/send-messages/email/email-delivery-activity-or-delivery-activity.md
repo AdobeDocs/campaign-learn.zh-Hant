@@ -6,9 +6,9 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
@@ -21,10 +21,3 @@ ht-degree: 100%
 此影片說明如何部署電子郵件傳遞範本。 它說明了電子郵件傳遞與傳遞工作流程之間的差異。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## 其他資源 {#additional-resources}
-
-* [關於範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hant)
-* [建立傳遞範本](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hant)
-* [選擇目標對應](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=zh-Hant)
-* [從範本建立傳遞](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=zh-Hant)

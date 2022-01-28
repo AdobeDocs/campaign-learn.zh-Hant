@@ -12,9 +12,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 瞭解如何檢查執行個體上是否已安裝行動應用程式頻道，以及如何安裝。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
-
-## 其他資源
-
-* [開始使用應用程式設定 (文件)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=zh-Hant)

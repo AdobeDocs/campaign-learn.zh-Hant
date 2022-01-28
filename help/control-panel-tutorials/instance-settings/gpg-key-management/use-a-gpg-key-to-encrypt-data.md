@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: d423f8e2-6ee0-4ed1-a39b-1a654d6bc023
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
-## 其他資源
-
-* [GPG 金鑰管理 (影片)](./gpg-key-management-overview.md)
-* [GPG 金鑰管理 (文件)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=zh-Hant)

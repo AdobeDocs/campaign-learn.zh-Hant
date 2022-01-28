@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 瞭解如何根據收件者偏好的頻道，使用電子郵件、SMS 和直接郵件傳送，建立多頻道行銷活動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12)
-
-## 其他資源
-
-* [多頻道和跨頻道行銷活動](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
