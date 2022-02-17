@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: 25ec67b4-62a5-4bcc-8bd0-8655e463366a
 source-git-commit: 5d65475a1c5c5a5d84cc148988e942d55ccc4d07
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '29'
+ht-degree: 100%
 
 ---
 
