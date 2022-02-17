@@ -11,7 +11,7 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
 ht-degree: 100%
 
@@ -58,7 +58,7 @@ ht-degree: 100%
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
     <strong>連結到 SFTP 伺服器</strong>
-     </a>
+    </a>
     </div>
     <p>
     <em>了解如何使用用戶端 SFTP 應用程式，使用您儲存在控制面板的金鑰，連線至您的 SFTP 伺服器。</em>
