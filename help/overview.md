@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: ht
-source-wordcount: '411'
-ht-degree: 100%
+source-git-commit: 50b72be4f33e791986cb5bf6d9cc3e1554d427bf
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 91%
 
 ---
 
@@ -19,13 +19,17 @@ ht-degree: 100%
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign V8 許多功能的相關影片和教學課程。
 
 >[!INFO]
-> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入對話！
+> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
 
 >[!NOTE]
 > Campaign V8 目前僅以 Managed Cloud Service 的形式提供，且無法部署在內部部署或混合環境中。 尚無法從現有 Campaign Classic V7 環境進行移轉。
 >請參閱 [Classic V7 至 V8 產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=zh-Hant) ，深入瞭解這兩個版本之間的差異。 另請參閱 [Campaign Classic V7 教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)一節，觀看教學影片。
 
 ## 新增功能
+
+* **[與Experience Manager整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+
+*瞭解如何將Adobe Campaign與Adobe Experience Manager連接起來，以便您能夠管理Experience Manager中的電子郵件傳遞模板、資產和表單。*
 
 * **[變更資料來源](/help/data-management/change-data-source.md)**
 
@@ -35,9 +39,6 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
    *瞭解以維度和工作表格為目標是什麼，以及 Adobe Campaign 如何跨不同資料來源管理資料。*
 
-* **[帶 FFDA 的 API 準備機制](/help/data-management/api-staging-mechanism.md)**
-
-   *瞭解 API 準備機制與完整 FDA 的工作原理。*
 
 ## 員工精選
 
