@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '432'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign V8 許多功能的相關影片和教學課程。
 
 >[!INFO]
-> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
+> 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?lang=zh-Hant)中加入對話！
 
 >[!NOTE]
 > Campaign V8 目前僅以 Managed Cloud Service 的形式提供，且無法部署在內部部署或混合環境中。 尚無法從現有 Campaign Classic V7 環境進行移轉。
@@ -27,9 +27,9 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[與Experience Manager整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+* **[整合 Experience Manager](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)**
 
-   *瞭解如何將Adobe Campaign與Adobe Experience Manager連接起來，以便您能夠管理Experience Manager中的電子郵件傳遞模板、資產和表單。*
+   *瞭解如何連結 Adobe Campaign 與 Adobe Experience Manager，讓您能夠管理 Experience Manager 的電子郵件傳遞範本、資產和表單。*
 
 * **[變更資料來源](/help/data-management/change-data-source.md)**
 
