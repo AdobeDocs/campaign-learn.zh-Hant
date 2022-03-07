@@ -1,6 +1,6 @@
 ---
-title: 批准Experience Manager內容並將其發佈到市場活動
-description: 瞭解如何建立Experience Manager時事通訊，以及如何批准該通訊並將其發佈到市場活動。
+title: 核准 Experience Manager 內容並發佈到 Campaign
+description: 瞭解如何建立 Experience Manager 電子報，以及如何核准並發佈到 Campaign。
 feature: Experience Manager Integration
 kt: 9597
 thumbnail: 340678.jpg
@@ -10,14 +10,14 @@ team: TM
 role: Admin, Developer
 level: Experienced
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 批准並發佈Experience Manager頁到市場活動
+# 核准 Experience Manager 頁面並發佈到 Campaign
 
-瞭解如何建立Experience Manager時事通訊，以及如何批准該通訊並將其發佈到市場活動。
+瞭解如何建立 Experience Manager 電子報，以及如何核准並發佈到 Campaign。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12)
