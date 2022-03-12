@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 95%
@@ -27,7 +27,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[與Adobe Target整合](/help/connect/target-integration.md)
+* **[與Adobe Target整合](/help/connect/target-integration.md)**
 
    *瞭解如何通過Adobe Target提供的動態內容個性化交付。*
 
@@ -65,7 +65,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>建立及設計電子郵件傳送</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>瞭解建立電子郵件傳送的流程，並瞭解如何設計和個人化電子郵件內容。</em>
     <p>
