@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[整合 Experience Manager](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)**
+* **[與Adobe Target整合](/help/connect/target-integration.md)
+
+   *瞭解如何通過Adobe Target提供的動態內容個性化交付。*
+
+* **[與Adobe Experience Manager整合](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)**
 
    *瞭解如何連結 Adobe Campaign 與 Adobe Experience Manager，讓您能夠管理 Experience Manager 的電子郵件傳遞範本、資產和表單。*
 
 * **[變更資料來源](/help/data-management/change-data-source.md)**
 
    *瞭解如何使用「變更資料來源活動」變更工作流程工作表格的資料來源，以靈活管理不同資料來源 (如FDA、FFDA 和本機資料庫) 的資料。*
-
-* **[工作流程資料管理的基礎知識](/help/data-management/data-management-fundamentals.md)**
-
-   *瞭解以維度和工作表格為目標是什麼，以及 Adobe Campaign 如何跨不同資料來源管理資料。*
 
 
 ## 員工精選
@@ -99,7 +99,33 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
     <em>瞭解如何從工作流程產生描述性分析報告。</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="工作流程資料管理的基礎知識" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>工作流程資料管理的基礎知識</strong>
+    </a>
+    </div>
+    <p>
+    <em>瞭解以維度和工作表格為目標是什麼，以及 Adobe Campaign 如何跨不同資料來源管理資料。</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="帶 FFDA 的 API 準備機制" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>帶 FFDA 的 API 準備機制</strong>
+    </a>
+    </div>
+    <p>
+    <em>瞭解 API 準備機制與完整 FDA 的工作原理。</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 請參閱 [產品文件](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hant) 以瞭解跟更多關於此功能的資訊。
