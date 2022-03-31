@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [建立由事件觸發的行銷活動](/help/get-started/create-event-triggered-campaigns.md)
 + 設定檔管理{#profile-management}
    + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
+   + [匯入設定檔](/help/profile-management/import-profiles.md)
    + [在工作流程中目標定位設定檔](/help/profile-management/target-profiles-in-a-workflow.md)
 + Campaign 策劃 {#campaign-orchestration}
    + [執行行銷活動](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [建立工作流程](/help/process-management/create-a-workflow.md)
    + [建立循環和持續傳遞](/help/process-management/recurring-deliveries.md)
    + 目標定位工作流程 {#targeting-workflows}
-      + [建立目標工作流程](/help/process-management/create-a-targeting-workflow.md)
+      + [建立目標定位工作流程](/help/process-management/create-a-targeting-workflow.md)
       + [結合查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-combining-query-results.md)
       + [排除查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-excluding-query-results.md)
    + 核准和驗證工作流程 {#create-approvals-and-validation-workflows}

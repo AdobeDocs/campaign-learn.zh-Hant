@@ -5,11 +5,12 @@ feature: Audit Trail
 kt: 7969
 doc-type: feature video
 activity: understand
+thumbnail: 342081.jpg
 team: PM
 role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -26,6 +27,6 @@ ht-degree: 100%
 
 瞭解如何存取稽核軌跡，以及可以設定哪些設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12)
 
 如需詳細資訊，請參閱[稽核軌跡文件](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=zh-Hant)。
