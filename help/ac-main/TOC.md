@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -87,10 +87,10 @@ ht-degree: 95%
    + [API 準備機制](/help/data-management/api-staging-mechanism.md)
    + [教學課程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hant)
 + 連結其他解決方案 {#connect}
-   + [與Adobe Experience Manager整合](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
-   + [與Adobe Experience Platform整合](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)
-   + [與Adobe Target整合](/help/connect/target-integration.md)
-   + [與Microsoft動力365整合](/help/connect/dynamics365-integration.md)
+   + [整合 Adobe Experience Manager](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
+   + [整合 Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)
+   + [整合 Adobe Target](/help/connect/target-integration.md)
+   + [整合 Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + 報告{#reporting}
    + [存取內建報吿](/help/reporting/access-built-in-reports.md)
    + [產生描述性分析報告](/help/reporting/generate-a-descriptive-analysis-report.md)
