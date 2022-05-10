@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[與Adobe Target整合](/help/connect/target-integration.md)**
+* **[與 Adobe Target 整合](/help/connect/target-integration.md)**
 
-   *瞭解如何通過Adobe Target提供的動態內容個性化交付。*
+   *瞭解如何透過 Adobe Target 提供的動態內容個人化交付。*
 
-* **[與Adobe Experience Manager整合](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)**
+* **[整合 Adobe Experience Manager](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)**
 
    *瞭解如何連結 Adobe Campaign 與 Adobe Experience Manager，讓您能夠管理 Experience Manager 的電子郵件傳遞範本、資產和表單。*
 
@@ -105,7 +105,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>工作流程資料管理的基礎知識</strong>
+    <strong>工作流程資料管理的基礎知識</strong>
     </a>
     </div>
     <p>
