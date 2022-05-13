@@ -10,12 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-hide: true
-hidefromtoc: true
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +26,7 @@ ht-degree: 100%
 * 類型
 * 寄件者和回覆地址
 * 基本個人化區塊
-* 鏡像頁面和取消訂閱的連結
+* 鏡像頁面和取消訂閱的連結 連結
 * 內容、公司標誌或簽名
 * 其他傳遞屬性，例如資源有效性、批次數量⋯
 
