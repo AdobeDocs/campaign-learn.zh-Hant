@@ -1,22 +1,23 @@
 ---
-title: 如何設定循環和持續的電子郵件行銷活動
+title: 建立定期和連續的電子郵件遞送
 description: 瞭解如何設定循環和持續傳遞，並瞭解兩種方法之間的差異。
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 94%
 
 ---
 
-# 如何設定循環和持續的電子郵件行銷活動
+# 建立定期和連續的電子郵件遞送
 
 本教學課程說明如何設定循環和持續傳遞，以及兩種方法之間的差異。
 
@@ -38,10 +39,10 @@ ht-degree: 100%
 
 影片說明了如何設定循環傳送和排程器活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## 如何設定連續傳送 {#how-to-set-up-a-continuous-delivery}
 
 此影片說明如何使用增量查詢來設定持續傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
