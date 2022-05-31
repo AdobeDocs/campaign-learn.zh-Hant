@@ -10,16 +10,18 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: ea5b7f4f7cd54f7f01acc98e57eac0164dc3981d
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 95%
 
 ---
 
 # 控制面板 - 概觀
 
 「控制面板」可以讓 Adobe Campaign 管理員監視關鍵資產並執行管理工作，例如依執行個體管理 SFTP 儲存、允許列出 IP 地址或管理 GPG 金鑰。
+
+查看 [發行說明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hant) 有關最新產品版本的資訊。
 
 ## 員工精選
 
