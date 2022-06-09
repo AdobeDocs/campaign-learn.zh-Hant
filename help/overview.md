@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+source-git-commit: 99904d75300064381bdac3245b290de82990d300
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 75%
@@ -27,7 +27,8 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**:
+* **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**
+
    *瞭解簡訊的工作原理和Adobe Campaign發送簡訊的方式*
 
 * **[為標準SMPP提供程式設定SMS帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
