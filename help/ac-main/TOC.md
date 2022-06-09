@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 97%
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊 {#sms}
+      + [為Adobe Campaign設定SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [建立 SMS 傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送 {#push}
       + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +89,7 @@ ht-degree: 97%
    + [教學課程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hant)
 + 連結其他解決方案 {#connect}
    + [整合 Adobe Experience Manager](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
-   + [整合 Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)
+   + [整合 Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
    + [整合 Adobe Target](/help/connect/target-integration.md)
    + [整合 Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + 報告{#reporting}
