@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: ce2f58028cb82327588fda9c76ff9fdbbd32fc4f
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 94%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 0%
       + [使用控制組](/help/send-messages/email/use-control-groups.md)
       + [疑難排解電子郵件傳遞問題](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
-      + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊 {#sms}
       + [為Adobe Campaign設定SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [建立 SMS 傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
@@ -102,3 +101,4 @@ ht-degree: 0%
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=zh-Hant)
 + 戰略與思想領導{#strategy}
    + [最大限度地提高電子郵件投資回報率和最佳實踐，以實現用戶重新參與](/help/strategy/campaign-maximize-email-best-practices.md)
+   + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)

@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[與 Adobe Target 整合](/help/connect/target-integration.md)**
+* **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**:
+   *瞭解簡訊的工作原理和Adobe Campaign發送簡訊的方式*
 
-   *瞭解如何透過 Adobe Target 提供的動態內容個人化交付。*
+* **[為標準SMPP提供程式設定SMS帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[整合 Adobe Experience Manager](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)**
+   *瞭解如何將SMS連接器適應您的SMPP提供商。 微調SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
 
-   *瞭解如何連結 Adobe Campaign 與 Adobe Experience Manager，讓您能夠管理 Experience Manager 的電子郵件傳遞範本、資產和表單。*
+* **[將SMS連接器適用於您的SMPP提供商](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[變更資料來源](/help/data-management/change-data-source.md)**
+   *瞭解如何優化SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
 
-   *瞭解如何使用「變更資料來源活動」變更工作流程工作表格的資料來源，以靈活管理不同資料來源 (如FDA、FFDA 和本機資料庫) 的資料。*
+* **[最大限度地提高您的電子郵件投資回報並學習訂閱者重新參與的最佳做法](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *瞭解如何最大化電子郵件投資回報率，並瞭解訂閱者重新參與的最佳做法。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件活動的總體成功。*
 
 ## 員工精選
 
