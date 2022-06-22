@@ -1,11 +1,12 @@
 ---
-title: 最大限度地提高您的電子郵件投資回報並學習訂閱者重新參與的最佳做法
-description: '瞭解如何最大化電子郵件投資回報率，並瞭解訂閱者重新參與的最佳做法。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件活動的總體成功。 '
+title: 盡可能提高您的電子郵件 ROI，瞭解讓訂閱者重新參與的最佳實務
+description: 了解如何最大化電子郵件 ROI，了解讓訂閱者重新參與的最佳實務。 探索提高訂閱者參與度度策略，瞭解電子郵件宣傳活動的整體成功。
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ ht-degree: 0%
 * **Test和學習**  — 良好的測試計畫對確保您的工作取得預期效果非常重要。 瞭解哪些工作正在進行，哪些不工作，並相應地迭代。
 
 有關本文的回顧和實施重新參與策略的現場演示，請觀看我們的 [網路研討會](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
+
+瞭解有關策略和思想領導的更多資訊 [客戶成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中。
