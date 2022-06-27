@@ -1,23 +1,23 @@
 ---
 title: 簡訊簡介
-description: 瞭解什麼是簡訊以及活動如何處理簡訊
+description: 了解什麼是簡訊以及行銷活動是如何處理簡訊
 feature: SMS
 thumbnail: 340957.jpg
 kt: 9743
-source-git-commit: 6459a34562d34bf0baf1d5ca1da279ee995ca38a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 267e8394-7499-45ef-8394-b216c513649a
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
-
 # 簡訊簡介
 
-![適用於V7和V8](../assets/V7-V8-stamp.png)
+![適用於 V7 和 V8](../assets/V7-V8-stamp.png)
 
-瞭解SMS是什麼、SMS服務提供商的角色以及Adobe Campaign如何連接到服務提供商。 瞭解通過服務提供商傳遞的資訊以及哪些技術說明可用。
+瞭解什麼是簡訊、簡訊服務提供者的角色以及 Adobe Campaign 如何連結到服務提供者。 瞭解透過服務提供者傳遞的資訊以及有哪些可用的技術說明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12)
 
-請參閱 [SMS連接器協定和設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages) 有關SMPP協定的詳細資訊、有關外部帳戶設定的詳細資訊，或對最常見問題進行故障排除。
+請參閱[簡訊連接器協定和設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hant#sending-messages)以了解有關 SMPP 協定、外部帳戶設定，或針對常見問題進行疑難排解的詳細資訊。
