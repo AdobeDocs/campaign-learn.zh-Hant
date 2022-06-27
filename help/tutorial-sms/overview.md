@@ -1,37 +1,37 @@
 ---
-title: 技術教程 — 設定Adobe Campaign的SMS
-description: 瞭解如何為SMTP提供程式配置SMS帳戶以及如何分析和排除配置故障。
+title: 技術教學課程 — 為 Adobe Campaign 設定簡訊
+description: 了解如何為 SMTP 提供者設定簡訊帳戶以及如何分析和針對設定進行疑難排解。
 feature: SMS
-source-git-commit: c47abbf25549960547b579e5a51e8704e5df0ea4
-workflow-type: tm+mt
+exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 技術教學課程 — 為 Adobe Campaign 設定簡訊
 
-# 技術教程 — 設定Adobe Campaign的SMS
+![適用於 V7 和 V8](../assets/V7-V8-stamp.png)
 
-![適用於V7和V8](../assets/V7-V8-stamp.png)
+本部分的教學課程是針對負責為 Adobe Campaign 設定簡訊通道的管理員設計的。
 
-本部分的教程是為負責為Adobe Campaign設定SMS通道的管理員設計的。
+以下主題將涵蓋介紹：
 
-將介紹以下主題：
+* **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**：
+   *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
 
-* **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**:
-   *瞭解簡訊的工作原理和Adobe Campaign發送簡訊的方式*
+* **[為標準 SMPP 提供者設定簡訊帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[為標準SMPP提供程式設定SMS帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+   *了解如何將簡訊連接器調整至您的 SMPP 提供者。 微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
-   *瞭解如何將SMS連接器適應您的SMPP提供商。 微調SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
+* **[將簡訊連接器調整至您的 SMPP 提供者](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[將SMS連接器適用於您的SMPP提供商](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *瞭解如何優化SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。*
+   *了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 * **分析和故障排除**
 即將推出
 
 >[!NOTE]
 >
->本教程適用於Adobe CampaignV7和營銷活動V8。 其他資源可在產品文檔中找到： [SMS連接器協定和設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages)。
+>本教學課程適用於 Adobe Campaign V7 和 Campaign V8。 可在產品文件中找到其他資源：[簡訊連接器通訊協定與設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hant#sending-messages)。
