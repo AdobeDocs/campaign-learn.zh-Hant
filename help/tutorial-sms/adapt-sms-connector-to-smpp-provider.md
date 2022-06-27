@@ -1,23 +1,23 @@
 ---
-title: 將SMS連接器適用於您的SMPP提供商
-description: 瞭解如何優化SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。
+title: 將簡訊連接器調整至您的 SMPP 提供者
+description: 了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。
 feature: SMS
 thumbnail: 343622.jpg
 kt: 9741
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
+exl-id: e84d43a8-6553-4657-9383-5ea91867e811
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 將簡訊連接器調整至您的 SMPP 提供者
 
-# 將SMS連接器適用於您的SMPP提供商
+![適用於 V7、V8](../assets/V7-V8-stamp.png)
 
-![適用於V7、V8](../assets/V7-V8-stamp.png)
-
-瞭解如何將SMS連接器適應您的SMPP提供商。 微調SMS設定以處理連接限制、設定最大吞吐量、發送窗口和使用TLS的加密。
+了解如何將簡訊連接器調整至您的 SMPP 提供者。微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12)
 
-請參閱 [SMS連接器協定和設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages) 有關SMPP協定的詳細資訊、有關外部帳戶設定的詳細資訊，或對最常見問題進行故障排除。
+請參閱[簡訊連接器協定和設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hant#sending-messages)以了解有關 SMPP 協定、外部帳戶設定，或針對常見問題進行疑難排解的詳細資訊。
