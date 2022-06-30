@@ -1,9 +1,9 @@
 ---
-title: 盡可能提高您的電子郵件 ROI，瞭解讓訂閱者重新參與的最佳實務
-description: 了解如何最大化電子郵件 ROI，了解讓訂閱者重新參與的最佳實務。 探索提高訂閱者參與度度策略，瞭解電子郵件宣傳活動的整體成功。
+title: 最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務
+description: 了解如何最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件促銷活動的整體成功。
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
+source-git-commit: f52e9f8cdb630c71af5e0a8c048c91a1db6b7d7b
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -137,4 +137,4 @@ ht-degree: 3%
 
 有關本文的回顧和實施重新參與策略的現場演示，請觀看我們的 [網路研討會](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
 
-瞭解有關策略和思想領導的更多資訊 [客戶成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中。
+瞭解有關策略和思想領導的更多資訊 [客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 中。
