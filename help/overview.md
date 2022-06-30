@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '483'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,14 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[監視吞吐量和延遲](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *瞭解如何監控活動實例的傳遞吞吐量和事務性消息延遲。*
+
+* **[簡訊簡介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hant)**
+
+   *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
+
 * **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**
 
    *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
@@ -34,14 +42,6 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 * **[為標準 SMPP 提供者設定簡訊帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
    *了解如何將簡訊連接器調整至您的 SMPP 提供者。微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
-
-* **[將簡訊連接器調整至您的 SMPP 提供者](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
-
-* **[最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *了解如何最大限度地提高您的電子郵件 ROI 並學習使訂閱者重新參與的最佳實務。 瞭解提高訂閱者參與度的策略，並瞭解電子郵件促銷活動的整體成功。*
 
 ## 員工精選
 
