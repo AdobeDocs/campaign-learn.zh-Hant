@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客�
 breadcrumb-title: 教學課程
 source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '419'
+ht-degree: 100%
 
 ---
 
