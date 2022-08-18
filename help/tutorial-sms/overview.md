@@ -3,10 +3,10 @@ title: 技術教學課程 — 為 Adobe Campaign 設定簡訊
 description: 了解如何為 SMTP 提供者設定簡訊帳戶以及如何分析和針對設定進行疑難排解。
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 100%
 
 * **[為標準 SMPP 提供者設定簡訊帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *了解如何將簡訊連接器調整至您的 SMPP 提供者。 微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
+   *了解如何將簡訊連接器調整至您的 SMPP 提供者。微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 * **[將簡訊連接器調整至您的 SMPP 提供者](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
    *了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
-* **分析和故障排除**
-即將推出
+* **[SMPP協定深入剖析和故障排除]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+   *瞭解如何建立SMPP連接以及SMPP如何通過PDU交換資料。 瞭解如何排除連接故障。*
 
 >[!NOTE]
 >
