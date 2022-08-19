@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,9 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
+* **[SMPP協定深入剖析和故障排除](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *瞭解如何建立SMPP連接以及SMPP如何通過PDU交換資料。 瞭解如何排除連接故障。*
 
 * **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
@@ -35,14 +38,6 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 * **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
-
-* **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
-
-* **[為標準 SMPP 提供者設定簡訊帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *了解如何將簡訊連接器調整至您的 SMPP 提供者。微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 ## 員工精選
 
