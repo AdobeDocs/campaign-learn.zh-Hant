@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
+source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '417'
 ht-degree: 100%
 
 ---
@@ -82,7 +82,6 @@ ht-degree: 100%
    + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
    + [設定擴充活動](/help/process-management/enrichment-activity.md)
    + [建立和擴充方案](/help/data-management/create-and-extend-a-schema.md)
-   + [匯入設定檔](/help/data-management/import-profiles.md)
    + [資料複製](/help/data-management/data-replication.md)
    + [API 準備機制](/help/data-management/api-staging-mechanism.md)
    + [教學課程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hant)
