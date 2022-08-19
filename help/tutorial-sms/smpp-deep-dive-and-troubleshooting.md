@@ -4,12 +4,13 @@ description: 瞭解如何建立SMPP連接以及SMPP如何通過PDU交換資料�
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
-source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+source-git-commit: 2e93092e1a433ae57515f08f8a70afa4b85bccf4
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 9%
 
 ---
+
 
 # SMPP協定深入剖析和故障排除
 
