@@ -2,10 +2,10 @@
 user-guide-title: 為 Adobe Campaign 設定簡訊
 user-guide-description: 了解如何為 SMTP 提供者設定簡訊帳戶、Adobe Campaign 如何處理簡訊以及如何分析和針對設定進行疑難排解。 
 breadcrumb-title: 設定簡訊
-source-git-commit: f20c47d0b3f260d19c1c938f3b8f1d521a0f069e
+source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 80%
 
 ---
 
@@ -20,4 +20,3 @@ ht-degree: 0%
 + 返回Tutorials {#campaign-tutorials}
    + [Adobe Campaign V8 教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en)
    + [Adobe Campaign V7 教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-   + [Adobe Campaign Standard 教學課程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
