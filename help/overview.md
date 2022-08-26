@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '480'
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 
 ## 新增功能
 
-* **[SMPP協定深入剖析和故障排除](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+* **[SMPP 協定深入剖析和疑難排解](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=zh-Hant)**
 
-   *瞭解如何建立SMPP連接以及SMPP如何通過PDU交換資料。 瞭解如何排除連接故障。*
+   *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。* 
 
 * **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
