@@ -4,9 +4,9 @@ description: 了解如何為 SMTP 提供者設定簡訊帳戶以及如何分析�
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 88%
 
    *了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
-* **[SMPP協定深入剖析和故障排除](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[SMPP 協定深入剖析和疑難排解](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *瞭解如何建立SMPP連接以及SMPP如何通過PDU交換資料。 瞭解如何排除連接故障。*
+   *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。*
 
 >[!NOTE]
 >
