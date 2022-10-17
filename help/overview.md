@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign V8 教學課程 – 概覽
-description: Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和跨管道執行的環境。 本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign Standard 許多功能的相關影片和教學課程。
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
@@ -8,15 +8,15 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '464'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # Adobe Campaign V8 教學課程 – 概覽
 
-Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行銷活動策劃、即時互動管理和跨管道執行的環境。 本使用手冊包含了 Adobe Campaign V8 許多功能的相關影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了 Adobe Campaign V8 許多功能的相關影片和教學課程。
 
 >[!INFO]
 > 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
@@ -24,7 +24,7 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
 >[!NOTE]
 > Campaign V8 目前僅以 Managed Cloud Service 的形式提供，且無法部署在內部部署或混合環境中。 無法從現有 Campaign Classic V7 環境進行自動移轉。
 >
->請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) 以取得從傳統v7到V8轉變的詳細資訊。
+>請參閱 [產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hant) 以取得從傳統 v7 到 V8 轉變的詳細資訊。
 
 ## 有哪些新功能
 
@@ -32,11 +32,11 @@ Adobe Campaign提供設計跨管道客戶體驗的平台，並提供視覺化行
 
    *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。* 
 
-* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[控制面板 — 監視工作流程](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視工作流程的臨時儲存使用情況以及在何處編輯工作流程設定以避免執行個體出現資料庫或工作流程問題。*
 
-* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
 
