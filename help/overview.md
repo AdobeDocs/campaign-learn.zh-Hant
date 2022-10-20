@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
 source-wordcount: '464'
 ht-degree: 100%
@@ -26,6 +26,8 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 >
 >請參閱 [產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hant) 以取得從傳統 v7 到 V8 轉變的詳細資訊。
 
+<div id="whats-new-section">
+
 ## 有哪些新功能
 
 * **[SMPP 協定深入剖析和疑難排解](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=zh-Hant)**
@@ -39,6 +41,17 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 * **[控制面板 — 監視輸送量和延時](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hant){target=&quot;_blank&quot;}**
 
    *瞭解如何監視行銷活動執行個體的傳遞輸送量和異動訊息延時。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 員工精選
 
@@ -127,5 +140,7 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
   </td>
 </tr>
 </table>
+
+</div>
 
 請參閱 [產品文件](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hant) 以瞭解跟更多關於此功能的資訊。
