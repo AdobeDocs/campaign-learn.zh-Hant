@@ -6,7 +6,7 @@ role: User
 level: Beginner
 kt: 11778
 last-substantial-update: 20230130
-source-git-commit: 6467bac851fe5805dce2a20c3df7a186ab929e41
+source-git-commit: 34175eeac8c0a6f74f85de2c6188e1edf9034616
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 0%
@@ -28,14 +28,6 @@ ht-degree: 0%
 Adobe Campaign是一項彈性工具，可讓您以多種方式執行和協調通訊。 [在每次購買歷程中，有一半的客戶會參與三到五個管道](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). 因此，了解並規劃如何事前使用這些渠道對於實現平台的全部潛力和與客戶產生共鳴至關重要。
 
 ## 2.記錄並了解客戶資料
-
-<!-- Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
-
-"A study by Hubspot revealed that 30% of the marketers who participated in it used market segmentation techniques to improve email engagement. Segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns.
-
-"Email marketers who segmented their audience before campaigning stated that the revenue generated increased to up to 760%. Targeted and segmented emails bring in 58% of all revenue." [Link](https://www.notifyvisitors.com/blog/segmentation-statistics/) 
-
-I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
 
 根據 [輪轂點研究](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen)，則分段促銷活動的開放率會高14.31%，而點按次數會比非分段促銷活動多101%。 在宣傳活動前劃分受眾的電子郵件行銷人員指出，產生的收入增加高達760%。
 
