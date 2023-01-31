@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: e866b1e1130a30d43d4ef59e17f8c58c1b5d6a81
+source-git-commit: 89b99c200f6169194e9607f4a0f335abc7d81ee0
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 98%
+source-wordcount: '431'
+ht-degree: 97%
 
 ---
 
@@ -100,6 +100,6 @@ ht-degree: 98%
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
 + 策略與思維領導{#strategy}
-   + [行銷人員適用Adobe Campaign成功的10個最佳實務](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Adobe Campaign成功行銷的十大最佳實務](/help/strategy-and-thought-leadrship/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy-and-thought-leadrship/campaign-maximize-email-best-practices.md)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
