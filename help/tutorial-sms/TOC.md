@@ -3,7 +3,7 @@ user-guide-title: 為 Adobe Campaign 設定簡訊
 user-guide-description: 了解如何為 SMTP 提供者設定簡訊帳戶、Adobe Campaign 如何處理簡訊以及如何分析和針對設定進行疑難排解。 
 breadcrumb-title: 設定簡訊
 source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
