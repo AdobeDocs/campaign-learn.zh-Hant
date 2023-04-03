@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在建立匯出工作流程的教學課程第二部分，您將了解如何設定匯出資料的格式，以及如何將資料儲存至外部帳戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on)
 
 ## 資產
 
