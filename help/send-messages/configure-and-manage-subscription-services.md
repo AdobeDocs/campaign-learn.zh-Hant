@@ -10,8 +10,8 @@ team: WWFRE
 role: User, Admin, Developer
 level: Experienced
 exl-id: 58f30484-72ae-4821-ae22-6391fb615156
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何設定及管理訂閱並目標定位訂閱者。
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on)
