@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何將標準排除套用至工作流程，藉此縮小目標範圍。 瞭解如何建立預先定義的篩選器，並疑難排解您的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on)
