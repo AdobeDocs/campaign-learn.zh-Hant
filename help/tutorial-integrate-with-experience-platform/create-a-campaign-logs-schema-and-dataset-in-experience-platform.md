@@ -10,8 +10,8 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Experience Platform 中建立結構描述和資料集，以便將 Campaign 記錄檔資料內嵌至 Platform。
 
->[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on)
