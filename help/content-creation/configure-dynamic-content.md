@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on)
