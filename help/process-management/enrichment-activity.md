@@ -10,7 +10,7 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 8a4653be-ae69-4c9f-aab8-dbff886ceecd
-source-git-commit: 7fd62bfae59892e450e23e1d2d47894e10f7809d
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 瞭解如何根據傳遞歷史記錄資訊設定擴充活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on)
