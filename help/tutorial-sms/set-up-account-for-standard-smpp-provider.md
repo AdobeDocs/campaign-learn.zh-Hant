@@ -6,8 +6,8 @@ thumbnail: 343607.jpg
 kt: 9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: 285afc4062984320423816e8364f863973834f71
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Campaign 建立 SMPP 帳戶、如何分析簡訊傳遞結果，以及依據您的 SMPP 提供者的規格自訂 SR 處理。
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on)
 
 請參閱[簡訊連接器協定和設定](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hant#sending-messages)以了解有關 SMPP 協定、外部帳戶設定，或針對常見問題進行疑難排解的詳細資訊。
