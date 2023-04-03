@@ -10,8 +10,8 @@ team: WWFRE
 role: User, Admin, Developer
 level: Beginner
 exl-id: b598e7ac-32ba-4fa4-b761-2cc2c9f557b2
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign 如何融入 Adobe 數位體驗產品組合，並瞭解主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on)
