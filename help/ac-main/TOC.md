@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [使用條件式內容建立多語言電子報](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [使用 AMP 定義互動式電子郵件內容](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [設定登陸頁面](/help/content-creation/configure-landingpages.md)
+   + [建立調查](/help/content-creation/create-a-survey.md)
 + 傳送訊息{#sending-messages}
    + 電子郵件 {#email}
       + [傳送及驗證電子郵件傳遞的校樣](/help/send-messages/email/send-and-validate-proofs.md)

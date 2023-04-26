@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11778
 last-substantial-update: 2023-01-30T00:00:00Z
-source-git-commit: 97655083782afb35430429e2162ae01566a55fc3
-workflow-type: ht
+exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
+source-git-commit: 08b6121b5a4cdf9eff023b664c727cceec180f9d
+workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Campaign] 成功行銷的十大最佳實務
 
