@@ -1,5 +1,5 @@
 ---
-title: 建立循環和持續的電子郵件傳送
+title: 建立定期及持續的電子郵件傳遞
 description: 瞭解如何設定循環和持續傳遞，並瞭解兩種方法之間的差異。
 feature: Workflows
 kt: 7982
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# 建立循環和持續的電子郵件傳送
+# 建立定期及持續的電子郵件傳遞
 
 本教學課程說明如何設定循環和持續傳遞，以及兩種方法之間的差異。
 
