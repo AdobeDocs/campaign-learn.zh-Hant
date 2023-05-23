@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
 breadcrumb-title: 教學課程
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 100%
 
