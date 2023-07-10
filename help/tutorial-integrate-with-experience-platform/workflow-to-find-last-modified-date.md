@@ -2,7 +2,7 @@
 title: 建立匯出工作流程 (第一部分)— 尋找收件人清單的最後修改日期
 description: 在建立匯出工作流程的教學課程第一部分，了解如何建立工作流程，尋找從 Experience Platform 區段建立的收件者清單的最後修改日期。
 feature: Data Import/Export, Workflows
-kt: 8162
+jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
