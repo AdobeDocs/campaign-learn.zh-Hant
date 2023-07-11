@@ -1,7 +1,7 @@
 ---
 title: 使用條件式內容建立多語言電子報
 description: 此影片以多語言電子報為範例，示範如何新增條件式內容至傳遞。
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7792
 thumbnail: 335682.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
