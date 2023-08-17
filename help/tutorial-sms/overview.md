@@ -20,19 +20,16 @@ ht-degree: 100%
 以下主題將涵蓋介紹：
 
 * **[簡訊簡介](/help/tutorial-sms/introduction-to-sms.md)**：
-   *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
+  *了解簡訊的工作原理和 Adobe Campaign 傳送簡訊的方式*
 
 * **[為標準 SMPP 提供者設定簡訊帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *了解如何將簡訊連接器調整至您的 SMPP 提供者。微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
+  *了解如何將簡訊連接器調整至您的 SMPP 提供者。微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 * **[將簡訊連接器調整至您的 SMPP 提供者](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
+  *了解如何微調簡訊設定以處理連線限制、設定最大輸送量、傳送視窗和 TLS 加密。*
 
 * **[SMPP 協定深入剖析和疑難排解](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-
-   *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。*
+  *瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。*
 
 >[!NOTE]
 >
