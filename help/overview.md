@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
+source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '443'
 ht-degree: 100%
 
 ---
@@ -138,5 +138,3 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 </table>
 
 </div>
-
-請參閱 [產品文件](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hant) 以瞭解跟更多關於此功能的資訊。
