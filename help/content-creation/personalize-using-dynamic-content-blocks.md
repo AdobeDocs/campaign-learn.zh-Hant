@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
-workflow-type: ht
-source-wordcount: '105'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 98%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳遞內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}

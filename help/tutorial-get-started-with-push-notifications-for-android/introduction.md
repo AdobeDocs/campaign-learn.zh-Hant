@@ -10,10 +10,10 @@ role: Admin, Developer
 level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '317'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '319'
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Campaign 可讓您將個人化和分段的 [!DNL push] 通知傳送至 [!D
 
    [!DNL Mobile App channel] 套件必須安裝在您的 [!DNL Campaign] 執行個體上。下列影片說明如何檢查是否已在您的執行個體上安裝 [!DNL Mobile App channel]，若未安裝，則會指導您進行安裝。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## 教學課程概觀
 

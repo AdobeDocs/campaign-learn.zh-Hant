@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 97%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign 中清單的概念，並瞭解如何使用工作流程中的更新清單活動來建立清單。
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}

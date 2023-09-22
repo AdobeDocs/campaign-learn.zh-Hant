@@ -9,10 +9,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 97%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 瞭解如何使用「變更資料來源活動」變更工作流程工作表格的資料來源，以靈活管理不同資料來源 (如 FDA、FFDA 和本機資料庫) 的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
 
 請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=zh-Hant#change-data-source-activity)以瞭解關於此功能的更多資訊。

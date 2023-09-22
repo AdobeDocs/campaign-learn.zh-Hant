@@ -10,10 +10,10 @@ role: User
 level: Beginner
 team: TM
 exl-id: f7391930-f712-408a-8933-3225d10864e7
-source-git-commit: 21119f61d1e46e50efbd674c8e0fc3a93d20d6c0
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 94%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解多頻道和跨頻道行銷活動與使用案例之間的差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}

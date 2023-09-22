@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '232'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '236'
+ht-degree: 98%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 100%
 
 影片說明了如何設定循環傳送和排程器活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
 
 ## 如何設定連續傳送 {#how-to-set-up-a-continuous-delivery}
 
 此影片說明如何使用增量查詢來設定持續傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}

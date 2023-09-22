@@ -11,10 +11,10 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
 exl-id: 9b52c0a8-48da-4b88-8b95-fd0fc47b06b5
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 97%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 工作流程是 Adobe Campaign 的一項強大功能，可協助您管理行銷活動，更輕鬆地吸引客戶。從 LoyaltyOne 行銷副總監 Adam Wilson 那裡學習並應用行銷人員的五個基本工作流程最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

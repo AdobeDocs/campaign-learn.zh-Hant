@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Experienced
 exl-id: 400cb55f-8f40-497d-b8da-3ba7fc750208
-source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 97%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Campaign 中設定外部帳戶，將收件者資料從 Adobe Experience Platform 匯入至 Campaign。 了解如何建立工作流程來上傳和定位從 Experience Platform 接收的收件者。
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
