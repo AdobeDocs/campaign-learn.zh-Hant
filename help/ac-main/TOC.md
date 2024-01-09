@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
-user-guide-description: Adobe Campaign 可讓行銷人員設計跨頻道的客戶體驗，並提供視覺化行銷活動協調、即時互動管理和跨頻道執行的環境。
-breadcrumb-title: 教學課程
+user-guide-description: Adobe Campaign v8的影片和教學課程。
+breadcrumb-title: Campaign v8Tutorials
 auto-video-transcripts: true
-source-git-commit: c755b1608247d34490d4196f63a6ba6f73dfccf7
-workflow-type: ht
-source-wordcount: '434'
-ht-degree: 100%
+source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
+workflow-type: tm+mt
+source-wordcount: '379'
+ht-degree: 97%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 100%
       + [疑難排解電子郵件傳遞問題](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
    + 簡訊 {#sms}
-      + [建立 SMS 傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [建立簡訊傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送 {#push}
       + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用 Experience Platform Mobile SDK 設定推送頻道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
