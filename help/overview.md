@@ -1,19 +1,19 @@
 ---
-title: Adobe Campaign V8使用者端主控台Tutorials
+title: Adobe Campaign V8使用者端主控台教學課程
 description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了Adobe Campaign V8使用者端主控台許多功能的相關影片和教學課程。
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 162004a7d92a649600a4e6bb42e306e92b1985cf
+source-git-commit: 9e502bab7f860db031e69efa486864bc5825b159
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 76%
 
 ---
 
-# Adobe Campaign v8使用者端主控台Tutorials
+# Adobe Campaign v8使用者端主控台教學課程
 
 Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了Adobe Campaign V8使用者端主控台許多功能的相關影片和教學課程。
 
