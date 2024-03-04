@@ -5,17 +5,17 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: 了解如何使用 Adobe Campaign V8 用戶端主控台的特性和功能。
 breadcrumb-title: 用戶端控制台 - 教學課程
 auto-video-transcripts: true
-source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
+source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 98%
+source-wordcount: '399'
+ht-degree: 95%
 
 ---
 
 
-# Adobe Campaign V8 教學課程 {#tutorials}
+# Adobe Campaign v8使用者端主控台Tutorials {#tutorials}
 
-+ [Adobe Campaign](/help/overview.md)
++ [Campaign v8使用者端主控台Tutorials](/help/overview.md)
 + [Campaign v8 的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
