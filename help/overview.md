@@ -1,20 +1,21 @@
 ---
-title: Adobe Campaign v8使用者端主控台Tutorials
-description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了Adobe Campaign V8使用者端主控台許多功能的相關影片和教學課程。
+title: Adobe Campaign v8 用戶端主控台教學課程
+description: Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含 Adobe Campaign V8 用戶端主控台許多功能的相關影片和教學課程。
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2dfee4f1efe870815fd7cbf9023838c1c9c367a8
-workflow-type: tm+mt
+exl-id: ec352448-e40b-4d22-b566-d25783e74b63
+source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign v8使用者端主控台Tutorials
+# Adobe Campaign v8 用戶端主控台教學課程
 
-Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含了Adobe Campaign V8使用者端主控台許多功能的相關影片和教學課程。
+Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷活動的策劃、即時互動管理和跨頻道執行提供環境。本使用手冊包含 Adobe Campaign V8 用戶端主控台許多功能的相關影片和教學課程。
 
 查看
 
@@ -22,12 +23,12 @@ Adobe Campaign 為跨頻道客戶體驗設計提供平台，並為視覺行銷�
 > 有疑問嗎？ 您想與同行分享經驗或交流想法嗎？ 或者，您是否對 Adobe 團隊的學習內容有回饋？ 在 [Adobe Campaign 學習社群對話串](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入對話！
 > 
 > 這些教學課程不是您要尋找的內容？
-> 請參閱 [Adobe Campaign Web使用者介面教學課程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) 以取得如何使用Campaign網頁使用者介面的指引。
+> 請參閱 [Adobe Campaign Web 使用者介面教學課程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hant)，以取得如何使用 Campaign 網頁使用者介面的指引。
 
 >[!NOTE]
 > Campaign V8 目前僅以 Managed Cloud Service 的形式提供，且無法部署在內部部署或混合環境中。 無法從現有 Campaign Classic V7 環境進行自動移轉。
 >
->請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hant) 以取得從Classic v7轉變到V8的詳細資訊。
+>請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hant)以取得從傳統 v7 過渡到 V8 的詳細資訊。
 
 
 <div id="recs-overview-body-1"></div>

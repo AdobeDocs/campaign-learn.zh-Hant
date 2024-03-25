@@ -2,20 +2,20 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教學課程
-user-guide-description: 了解如何使用 Adobe Campaign V8 用戶端主控台的特性和功能。
+user-guide-description: 暸解如何使用 Adobe Campaign V8 用戶端主控台的特性和功能。
 breadcrumb-title: 用戶端控制台 - 教學課程
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign v8使用者端主控台Tutorials {#tutorials}
+# Adobe Campaign v8 用戶端主控台教學課程 {#tutorials}
 
-+ [Campaign v8使用者端主控台Tutorials](/help/overview.md)
++ [Campaign v8 用戶端主控台教學課程](/help/overview.md)
 + [Campaign v8 的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
@@ -105,4 +105,4 @@ ht-degree: 95%
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
    + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)
    + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
-+ [Adobe Campaign Web使用者介面教學課程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Adobe Campaign Web 使用者介面教學課程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hant)
