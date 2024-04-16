@@ -3,12 +3,13 @@ title: 為標準 SMPP 提供者設定簡訊帳戶
 description: 了解如何使用 Adobe Campaign 建立 SMPP 帳戶、如何分析簡訊傳遞結果，以及依據您的 SMPP 提供者的規格自訂 SR 處理。 
 feature: SMS
 thumbnail: 343607.jpg
+role: Admin, Developer
 jira: KT-9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: d9b8e25cbb2d13af48e34d035070715a0a9e659c
 workflow-type: ht
-source-wordcount: '117'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
