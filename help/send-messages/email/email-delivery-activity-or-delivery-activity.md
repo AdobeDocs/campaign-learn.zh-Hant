@@ -7,16 +7,16 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 88%
 
 ---
 
 
-# 電子郵件傳遞活動與傳遞活動
+# 電子郵件傳送活動與傳送活動
 
-[!UICONTROL 傳遞類型活動]可讓您建立傳遞動作。 可使用輸入元素來建構。
+[!UICONTROL Delivery-type activity]可讓您建立傳遞動作。 可使用輸入元素來建構。
 
 此影片說明如何部署電子郵件傳遞範本。 它說明了電子郵件傳遞與傳遞工作流程之間的差異。
 

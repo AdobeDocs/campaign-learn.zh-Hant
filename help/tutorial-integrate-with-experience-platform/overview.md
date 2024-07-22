@@ -9,8 +9,8 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '86'
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12&learn=on){transcript=true}
 
-## 其他資源
+## 額外資源
 
 ### 文件
 

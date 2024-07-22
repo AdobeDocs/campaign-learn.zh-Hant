@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 類型
 * 寄件者和回覆地址
 * 基本個人化區塊
-* 鏡像頁面和取消訂閱的連結 連結
+* 映象頁面的連結和取消訂閱連結
 * 內容、公司標誌或簽名
 * 其他傳遞屬性，例如資源有效性、批次數量⋯
 

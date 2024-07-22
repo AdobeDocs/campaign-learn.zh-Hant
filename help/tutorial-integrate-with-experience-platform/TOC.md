@@ -4,7 +4,7 @@ user-guide-description: 了解如何匯入和匯出 Campaign 和 Experience Clou
 breadcrumb-title: 與 Experience Platform 整合
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---

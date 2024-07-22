@@ -11,15 +11,15 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
 # 稽核軌跡
 
-[!UICONTROL 稽核軌跡]可以即時擷取 Adobe Campaign 中發生之動作和事件的完整清單。[!UICONTROL 稽核軌跡]功能包括自助式存取歷史資料記錄，以協助回答下列問題：
+[!UICONTROL Audit Trail]可以即時擷取Adobe Campaign中發生之動作和事件的完整清單。[!UICONTROL Audit Trail]包括自助式存取歷史資料記錄，以協助回答下列問題：
 
 * 物件怎麼了？
 * 最近由誰修改？何時修改？
