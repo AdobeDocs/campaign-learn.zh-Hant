@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: 暸解如何使用 Adobe Campaign V8 用戶端主控台的特性和功能。
 breadcrumb-title: 用戶端控制台 - 教學課程
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [使用控制組](/help/send-messages/email/use-control-groups.md)
       + [疑難排解電子郵件傳遞問題](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [設計電子郵件以獲得傳遞能力](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊 {#sms}
       + [建立簡訊傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送 {#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
 + 策略與思維領導{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
-   + [最大限度地提高電子郵件 ROI，以及讓訂閱者重新參與的最佳實務](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
 + [Adobe Campaign Web 使用者介面教學課程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hant)
