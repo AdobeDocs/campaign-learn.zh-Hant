@@ -6,7 +6,7 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
+source-git-commit: 01b114a7da816d25abcad8b0a12c7c02c6ebba02
 workflow-type: tm+mt
 source-wordcount: '1475'
 ht-degree: 0%
@@ -141,3 +141,4 @@ ht-degree: 0%
 若要回顧本文章及實作重新參與策略的即時示範，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
 
 在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心瞭解更多策略和思想領導力。
+
