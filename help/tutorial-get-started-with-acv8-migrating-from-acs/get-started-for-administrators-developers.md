@@ -6,8 +6,8 @@ level: Beginner, Experienced
 jira: KT-15787
 source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 18%
+source-wordcount: '290'
+ht-degree: 22%
 
 ---
 
@@ -35,7 +35,7 @@ Adobe Campaign可讓您定義並管理指派給使用者的許可權：
 
 * 存取特定功能
 * 存取特定資料
-* 存取特定動作（建立、修改、刪除）
+* 存取特定動作 (建立、修改、刪除)
 
   如需詳細資訊，請參閱[管理使用者許可權](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}。
 

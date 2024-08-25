@@ -6,8 +6,8 @@ level: Beginner, Experienced
 jira: KT-15788
 source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 23%
+source-wordcount: '863'
+ht-degree: 22%
 
 ---
 
@@ -110,7 +110,7 @@ ht-degree: 23%
 
 ### 電子郵件傳遞
 
-瞭解如何從草稿開始建立電子郵件傳遞、定義對象、設計內容、模擬預覽，以及傳送校訂。
+瞭解如何從草稿開始建立電子郵件傳遞、定義客群、設計內容、模擬預覽，以及傳送校訂。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
 
