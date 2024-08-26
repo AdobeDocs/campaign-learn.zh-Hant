@@ -19,7 +19,7 @@ ht-degree: 100%
 + [Campaign v8 的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
-   + 從 Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=zh-Hant) 移轉後，[開始使用 Adobe Campaign v8
+   + [從 Campaign Standard 移轉後，開始使用 Adobe Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=zh-Hant)
    + [安裝及設定 Adobe Campaign 用戶端主控台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [探索 Adobe Campaign 使用者介面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
