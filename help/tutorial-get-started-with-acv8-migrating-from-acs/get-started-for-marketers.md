@@ -4,9 +4,9 @@ description: 本教學課程概述Campaign v8的主要功能。 它適用於從C
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '849'
 ht-degree: 22%
 
 ---
@@ -29,8 +29,6 @@ ht-degree: 22%
 2. [瀏覽及篩選清單](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## 尋找說明和指引
-
-使用[AI支援的內容說明](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"}存取UI中的產品檔案。
 
 [Adobe Campaign Web使用者介面檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/campaign-web-home)
 
