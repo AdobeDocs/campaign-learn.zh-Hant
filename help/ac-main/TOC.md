@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: 暸解如何使用 Adobe Campaign V8 用戶端主控台的特性和功能。
 breadcrumb-title: 用戶端控制台 - 教學課程
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '408'
+ht-degree: 100%
 
 ---
 
@@ -19,16 +19,16 @@ ht-degree: 98%
 + [Campaign v8 的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
 + 開始使用{#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign v8採用指南](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 採用指南](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/acs-to-ac/home)
    + [安裝及設定 Adobe Campaign 用戶端主控台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [探索 Adobe Campaign 使用者介面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
    + [建立行銷計劃、方案和行銷活動](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [建立由事件觸發的行銷活動](/help/get-started/create-event-triggered-campaigns.md)
-+ 設定檔管理{#profile-management}
-   + [建立和管理設定檔](/help/profile-management/create-and-manage-profiles.md)
-   + [匯入設定檔](/help/profile-management/import-profiles.md)
-   + [在工作流程中目標定位設定檔](/help/profile-management/target-profiles-in-a-workflow.md)
++ 輪廓管理{#profile-management}
+   + [建立和管理輪廓](/help/profile-management/create-and-manage-profiles.md)
+   + [匯入輪廓](/help/profile-management/import-profiles.md)
+   + [在工作流程中選擇目標輪廓](/help/profile-management/target-profiles-in-a-workflow.md)
 + Campaign 策劃 {#campaign-orchestration}
    + [執行行銷活動](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [多重和跨行銷活動簡介](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -102,6 +102,7 @@ ht-degree: 98%
    + [工作流程熱度圖](/help/monitoring/workflow-heatmap.md)
    + [稽核軌跡](/help/monitoring/audit-trail.md)
 + 管理員 {#administration}
+   + [管理使用者權限](/help/administration/manage-user-permissions.md)
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
 + 策略與思維領導{#strategy}
