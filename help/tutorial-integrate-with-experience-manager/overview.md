@@ -8,7 +8,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 7c877275-a160-41a8-950a-756e9e932302
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: 8386506fc6f99a15ca4f6f265322565c60626e78
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
@@ -22,3 +22,4 @@ ht-degree: 100%
 以下影片說明了您將學到的內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+
