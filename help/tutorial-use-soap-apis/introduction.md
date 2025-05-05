@@ -19,6 +19,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Campaign Soap API，並根據透過 API 收到的資料，建立進階的傳遞工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438347?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 下一部要觀看的影片：[步驟一：開始使用 SOAP API](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

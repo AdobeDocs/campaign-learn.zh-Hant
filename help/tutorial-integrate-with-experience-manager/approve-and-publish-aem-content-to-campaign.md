@@ -21,5 +21,5 @@ ht-degree: 100%
 
 瞭解如何建立 Experience Manager 電子報，以及如何核准並發佈到 Campaign。
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447582?quality=12&learn=on&captions=chi_hant){transcript=true}
 

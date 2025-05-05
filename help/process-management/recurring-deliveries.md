@@ -39,10 +39,10 @@ ht-degree: 100%
 
 影片說明了如何設定循環傳送和排程器活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446885?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 如何設定連續傳送 {#how-to-set-up-a-continuous-delivery}
 
 此影片說明如何使用增量查詢來設定持續傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444578?quality=12&learn=on&captions=chi_hant){transcript=true}

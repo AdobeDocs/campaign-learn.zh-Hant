@@ -23,4 +23,4 @@ ht-degree: 100%
 
 本影片還說明 Adobe Campaign 與一般資料保護規範 (GDPR) 和加州消費者隱私保護法 (CCPA) 的相容性。
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452102?quality=12&learn=on&captions=chi_hant){transcript=true}

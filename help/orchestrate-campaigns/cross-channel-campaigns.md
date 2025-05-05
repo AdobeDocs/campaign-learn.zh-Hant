@@ -23,4 +23,4 @@ ht-degree: 100%
 
 瞭解如何根據客戶與第一次傳送的互動，使用電子郵件和直接郵件傳送，建立跨頻道行銷活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426519?quality=12&learn=on&captions=chi_hant){transcript=true}

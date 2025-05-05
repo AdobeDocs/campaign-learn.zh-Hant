@@ -18,4 +18,4 @@ ht-degree: 100%
 
 瞭解如何透過 Adobe Target 提供的動態內容個性化交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453268?quality=12&learn=on&captions=chi_hant){transcript=true}

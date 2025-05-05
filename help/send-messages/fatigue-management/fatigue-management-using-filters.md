@@ -21,4 +21,4 @@ ht-degree: 100%
 
 疲勞管理控制傳訊的頻率和數量，以避免過度向收件者發送請求。 瞭解如何使用篩選器在 Adobe Campaign 中實施疲勞管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444611?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -24,4 +24,4 @@ Adobe Campaign 使用工作流程來執行目標定位行銷活動、建立行�
 
 瞭解如何使用目標工作流程定義數個傳遞目標。
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450199?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 瞭解如何使用「變更資料來源活動」變更工作流程工作表格的資料來源，以靈活管理不同資料來源 (如 FDA、FFDA 和本機資料庫) 的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449541?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 請參閱[產品文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=zh-Hant#change-data-source-activity)以瞭解關於此功能的更多資訊。

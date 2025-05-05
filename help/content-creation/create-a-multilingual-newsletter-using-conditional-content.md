@@ -23,4 +23,4 @@ ht-degree: 100%
 
 此影片以多語言電子報為範例，示範如何新增條件式內容至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426541?quality=12&learn=on&captions=chi_hant){transcript=true}

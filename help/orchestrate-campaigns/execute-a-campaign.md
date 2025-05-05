@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何執行行銷活動、檢閱電子郵件傳遞和傳遞屬性。
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452977?quality=12&learn=on&captions=chi_hant){transcript=true}

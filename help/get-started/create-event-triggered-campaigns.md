@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何建立事件觸發的行銷活動並瞭解其用途。
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426641?quality=12&learn=on&captions=chi_hant){transcript=true}

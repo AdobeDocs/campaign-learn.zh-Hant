@@ -23,4 +23,4 @@ ht-degree: 100%
 
 瞭解如何根據收件者偏好的頻道，使用電子郵件、簡訊和直接郵件傳送，建立多頻道行銷活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452514?quality=12&learn=on&captions=chi_hant){transcript=true}

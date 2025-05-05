@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign 中的內建報告和分析，以及瞭解如何產生傳遞報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448294?quality=12&learn=on&captions=chi_hant){transcript=true}

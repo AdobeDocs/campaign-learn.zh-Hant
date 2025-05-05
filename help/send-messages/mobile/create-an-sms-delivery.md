@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何建立簡訊傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/335706?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441815?quality=12&learn=on&captions=chi_hant){transcript=true}

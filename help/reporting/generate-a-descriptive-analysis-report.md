@@ -21,4 +21,4 @@ ht-degree: 75%
 
 瞭解如何從工作流程產生[!UICONTROL descriptive analysis report]。
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448840?quality=12&learn=on&captions=chi_hant){transcript=true}

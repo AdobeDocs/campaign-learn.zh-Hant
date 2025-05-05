@@ -18,6 +18,6 @@ ht-degree: 0%
 
 了解如何使用 Campaign SOAP API 建立新收件者。 了解如何使用 SOAP API 建立自訂文章資料結構，並提交文章。
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453543?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 下一部要觀看的影片：[步驟三 - 透過 SOAP API 訂閱使用者](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

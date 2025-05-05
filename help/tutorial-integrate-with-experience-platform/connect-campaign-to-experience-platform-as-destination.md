@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用 Amazon S3 連線類型啟用 Adobe Experience Platform 區段至目的地。
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453132?quality=12&learn=on&captions=chi_hant){transcript=true}

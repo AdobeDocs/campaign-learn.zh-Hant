@@ -23,4 +23,4 @@ Adobe Campaign 可讓您在其伺服器上設計和托管各種登陸頁面，�
 
 此影片示範如何透過建立偏好設定中心來導覽 Adobe Campaign 的 Web 應用程式編輯器。
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450225?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如果您的行銷活動工作流程中的所有傳遞都有相同審核者集，則應在行銷活動層級設定核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446519?quality=12&learn=on&captions=chi_hant){transcript=true}

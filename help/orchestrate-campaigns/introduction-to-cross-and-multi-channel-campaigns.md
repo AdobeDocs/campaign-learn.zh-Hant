@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解多頻道和跨頻道行銷活動與使用案例之間的差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447209?quality=12&learn=on&captions=chi_hant){transcript=true}

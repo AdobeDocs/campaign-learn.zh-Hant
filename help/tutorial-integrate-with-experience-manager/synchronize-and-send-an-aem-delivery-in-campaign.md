@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何在 Campaign 測試並傳送 Experience Manager 建立的電子報。
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444759?quality=12&learn=on&captions=chi_hant){transcript=true}

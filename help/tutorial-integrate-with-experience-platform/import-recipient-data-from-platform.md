@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Campaign 中設定外部帳戶，將收件者資料從 Adobe Experience Platform 匯入至 Campaign。 了解如何建立工作流程來上傳和定位從 Experience Platform 接收的收件者。
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453488?quality=12&learn=on&captions=chi_hant){transcript=true}

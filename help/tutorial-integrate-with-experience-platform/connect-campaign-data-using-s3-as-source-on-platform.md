@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用 Experience Platform 中的來源連接器內嵌資料，以使用匯出的 Campaign 記錄更新設定檔資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452036?quality=12&learn=on&captions=chi_hant){transcript=true}

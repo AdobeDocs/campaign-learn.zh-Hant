@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在建立匯出工作流程的教學課程第一部分，了解如何建立工作流程，尋找從 Experience Platform 區段建立的收件者清單的最後修改日期。
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450058?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 資產
 

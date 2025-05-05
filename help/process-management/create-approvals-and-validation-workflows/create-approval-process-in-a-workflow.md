@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何在工作流程中建立核准流程，以在啟動傳遞前，允許審核和核准目標定位選擇邏輯。
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442045?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何設定傳遞範本屬性，並詳細說明每個屬性。
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443412?quality=12&learn=on&captions=chi_hant){transcript=true}

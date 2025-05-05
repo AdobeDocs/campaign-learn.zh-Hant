@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何設定及管理訂閱並目標定位訂閱者。
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426555?quality=12&learn=on&captions=chi_hant){transcript=true}

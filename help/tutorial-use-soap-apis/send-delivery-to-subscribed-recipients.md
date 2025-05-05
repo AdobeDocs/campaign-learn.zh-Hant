@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何連結資料的兩個區段、建立文章警報電子郵件，以及根據從外部 API 收到的資料進行個人化。我們將繼續建置在先前步驟中建立的工作流程：[查詢文章和收件者訂閱值](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)影片。
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449575?quality=12&learn=on&captions=chi_hant){transcript=true}

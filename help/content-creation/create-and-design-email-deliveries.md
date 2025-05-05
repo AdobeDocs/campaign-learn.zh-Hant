@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解建立電子郵件傳遞的流程，同時瞭解如何設計和個人化電子郵件內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444320?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign 如何融入 Adobe 數位體驗產品組合，並瞭解主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453323?quality=12&learn=on&captions=chi_hant){transcript=true}

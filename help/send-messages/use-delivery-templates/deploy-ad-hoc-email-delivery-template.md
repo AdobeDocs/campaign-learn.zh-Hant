@@ -21,4 +21,4 @@ ht-degree: 100%
 
 此影片說明如何部署隨選電子郵件傳遞範本，並說明電子郵件傳遞與傳遞工作流程之間的差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444968?quality=12&learn=on&captions=chi_hant){transcript=true}

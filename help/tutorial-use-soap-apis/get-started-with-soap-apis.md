@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何使用 Postman 產生工作階段代號，以用於 API 請求。
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449486?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 下一部要觀看的影片：[步驟二 — 使用 SOAP API 請求新增收件者和文章](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

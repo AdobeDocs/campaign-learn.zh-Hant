@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何使用 SOAP API 呼叫建立電子報服務及訂閱收件者。
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446028?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 繼續至：[步驟四 — 使用工作流程建立內容摘要](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

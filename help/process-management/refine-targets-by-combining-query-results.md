@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何使用交叉點或聯合活動將查詢結果合併到工作流程中，以縮小目標範圍。
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429375?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign V8 使用者介面，以及如何瀏覽主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426445?quality=12&learn=on&captions=chi_hant){transcript=true}

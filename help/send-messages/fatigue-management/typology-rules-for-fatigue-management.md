@@ -23,4 +23,4 @@ ht-degree: 100%
 
 瞭解如何使用類型規則在 Adobe Campaign 中實施疲勞管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448342?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 瞭解如何建立動態內容區塊，以及如何使用這些區塊來個人化您的電子郵件傳遞內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449017?quality=12&learn=on&captions=chi_hant){transcript=true}

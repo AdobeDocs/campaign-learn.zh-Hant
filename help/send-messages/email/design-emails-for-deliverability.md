@@ -20,7 +20,7 @@ ht-degree: 100%
 
 瞭解如何將傳遞能力的最佳實務運用在電子郵件傳遞上。
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452014?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 其他資源
 

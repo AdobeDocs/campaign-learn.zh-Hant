@@ -22,4 +22,4 @@ ht-degree: 100%
 瞭解如何建立行銷計劃、方案和行銷活動、為行銷活動設定屬性，並瞭解如何使用排程。
 影片會引導您完成練習，您可在自己的執行個體中據以進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426483?quality=12&learn=on&captions=chi_hant){transcript=true}

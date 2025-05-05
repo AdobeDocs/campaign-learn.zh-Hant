@@ -21,7 +21,7 @@ ht-degree: 0%
 
 瞭解如何疑難排解 Campaign 中的電子郵件傳遞問題。
 
->[!VIDEO](https://video.tv.adobe.com/v/334907?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426601?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 其他資源
 

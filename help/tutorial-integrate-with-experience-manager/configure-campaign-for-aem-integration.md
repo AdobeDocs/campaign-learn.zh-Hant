@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何針對 Experience Manager 與 Campaign 之間的整合進行設定，包括要尋找的重要設定及要避免的潛在「陷阱」。
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445907?quality=12&learn=on&captions=chi_hant){transcript=true}

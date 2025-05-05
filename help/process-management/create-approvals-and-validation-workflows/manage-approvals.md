@@ -23,4 +23,4 @@ ht-degree: 100%
 
 瞭解如何設定核准和行銷活動，以及如何區分傳遞和工作流程核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426634?quality=12&learn=on&captions=chi_hant){transcript=true}

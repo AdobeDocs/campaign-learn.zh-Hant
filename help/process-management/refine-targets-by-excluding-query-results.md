@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何將標準排除套用至工作流程，藉此縮小目標範圍。 瞭解如何建立預先定義的篩選器，並疑難排解您的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452954?quality=12&learn=on&captions=chi_hant){transcript=true}

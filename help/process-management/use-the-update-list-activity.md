@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解 Adobe Campaign 中清單的概念，並瞭解如何使用工作流程中的更新清單活動來建立清單。
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426467?quality=12&learn=on&captions=chi_hant){transcript=true}

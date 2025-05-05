@@ -22,7 +22,7 @@ ht-degree: 100%
 
 瞭解如何使用行銷活動工作流程，並瞭解如何建立工作流程，以及使用篩選器在工作流程中目標定位設定檔。
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453587?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 下一個待看教學課程
 
