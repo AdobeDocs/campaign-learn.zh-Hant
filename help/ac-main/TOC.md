@@ -77,8 +77,8 @@ ht-degree: 96%
    + 核准和驗證工作流程 {#create-approvals-and-validation-workflows}
       + [簡介](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [管理核准](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [設定行銷活動的核准 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [設定用於傳遞的核准 ](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [設定行銷活動的核准 &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [設定用於傳遞的核准 &#x200B;](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [在工作流程中建立核准活動](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [向同儕學習 - 工作流程最佳實務](/help/process-management/workflow-best-practices-for-marketers.md)
 + 資料管理 {#data-management}
