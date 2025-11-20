@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 + [Campaign v8 用戶端主控台教學課程](/help/overview.md)
 + [Campaign v8 的主要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hant)
-+ 開始使用{#getting-started}
++ 開始使用 {#getting-started}
    + [Adobe Campaign 簡介](/help/get-started/introduction-to-adobe-campaign.md)
    + [Adobe Campaign v8 採用指南](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/acs-to-ac/home)
    + [安裝及設定 Adobe Campaign 用戶端主控台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
@@ -25,11 +25,11 @@ ht-degree: 100%
    + [管理行銷活動](/help/get-started/manage-marketing-campaigns.md)
    + [建立行銷計劃、方案和行銷活動](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [建立由事件觸發的行銷活動](/help/get-started/create-event-triggered-campaigns.md)
-+ 輪廓管理{#profile-management}
++ 輪廓管理 {#profile-management}
    + [建立和管理輪廓](/help/profile-management/create-and-manage-profiles.md)
    + [匯入輪廓](/help/profile-management/import-profiles.md)
    + [在工作流程中選擇目標輪廓](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Campaign 策劃 {#campaign-orchestration}
++ 行銷活動協調 {#campaign-orchestration}
    + [執行行銷活動](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [多重和跨行銷活動簡介](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [建立多頻道行銷活動](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -54,7 +54,7 @@ ht-degree: 100%
       + [傳遞能力最佳實務指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hant)
    + 簡訊 {#sms}
       + [建立簡訊傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
-   + 推送 {#push}
+   + 推播 {#push}
       + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用 Experience Platform Mobile SDK 設定推送頻道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + 直接郵件 {#direct-mail}
@@ -70,7 +70,7 @@ ht-degree: 100%
 + 流程管理和自動化{#process-management}
    + [建立工作流程](/help/process-management/create-a-workflow.md)
    + [建立循環和持續傳遞](/help/process-management/recurring-deliveries.md)
-   + 目標定位工作流程 {#targeting-workflows}
+   + 目標工作流程 {#targeting-workflows}
       + [建立目標定位工作流程](/help/process-management/create-a-targeting-workflow.md)
       + [結合查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-combining-query-results.md)
       + [排除查詢結果以縮小目標範圍](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -86,7 +86,7 @@ ht-degree: 100%
    + [變更資料來源](/help/data-management/change-data-source.md)
    + [使用更新清單活動](/help/process-management/use-the-update-list-activity.md)
    + [設定擴充活動](/help/process-management/enrichment-activity.md)
-   + [建立和擴充方案](/help/data-management/create-and-extend-a-schema.md)
+   + [建立和擴充結構描述](/help/data-management/create-and-extend-a-schema.md)
    + [資料複製](/help/data-management/data-replication.md)
    + [API 準備機制](/help/data-management/api-staging-mechanism.md)
    + [教學課程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hant)
@@ -95,16 +95,16 @@ ht-degree: 100%
    + [整合 Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)
    + [整合 Adobe Target](/help/connect/target-integration.md)
    + [整合 Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
-+ 報告{#reporting}
++ 報告 {#reporting}
    + [存取內建報吿](/help/reporting/access-built-in-reports.md)
    + [產生描述性分析報告](/help/reporting/generate-a-descriptive-analysis-report.md)
 + 監視 {#monitoring}
    + [工作流程熱度圖](/help/monitoring/workflow-heatmap.md)
    + [稽核軌跡](/help/monitoring/audit-trail.md)
-+ 管理員 {#administration}
++ 管理 {#administration}
    + [管理使用者權限](/help/administration/manage-user-permissions.md)
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hant){target="_blank"}
    + [為 Adobe Campaign 設定簡訊](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hant)
-+ 策略與思維領導{#strategy}
++ 策略與思維領導力{#strategy}
    + [Adobe Campaign 成功行銷的十大最佳實務](/help/strategy/10-best-practices-for-marketers.md)
 + [Adobe Campaign Web 使用者介面教學課程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hant)
