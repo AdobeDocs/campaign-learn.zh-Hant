@@ -18,7 +18,7 @@ ht-degree: 17%
 
 ## 瞭解Campaign v8架構
 
-請參閱[開始使用Campaign架構](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"}，先瞭解Campaign架構，再開始架構和組織您的執行個體。
+請參閱[開始使用Campaign架構](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"}，先瞭解Campaign架構，再開始架構和組織您的執行個體。
 
 
 ## 安裝用戶端控制台
@@ -27,11 +27,11 @@ ht-degree: 17%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335375?quality=12&learn=on){transcript=true}
 
-如需詳細資訊，請參閱[使用使用者端主控台連線至Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/connect){target="_blank"}。
+如需詳細資訊，請參閱[使用使用者端主控台連線至Campaign](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/new/connect){target="_blank"}。
 
 ## 設定及管理存取權
 
-1. **[開始使用Campaign v8中的許可權。](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[開始使用Campaign v8中的許可權。](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 瞭解整體許可權模式：操作員、操作員群組（角色）、已命名的許可權和檔案夾許可權。
 
 2. 瞭解如何在使用者端主控台中管理使用者許可權。 瞭解如何
@@ -43,17 +43,17 @@ ht-degree: 17%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}，以取得詳細的書面逐步指南。
+請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}，以取得詳細的書面逐步指南。
 
 ## 設定您的執行個體
 
-* 請檢閱[Campaign實作准則](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}，瞭解如何根據貴公司的需求調整Adobe Campaign以及組織實作。
-* [在此設定頻道](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
-* [Experience Cloud Triggers設定](https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
+* 請檢閱[Campaign實作准則](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/config/implement/implement){target="_blank"}，瞭解如何根據貴公司的需求調整Adobe Campaign以及組織實作。
+* [在此設定頻道](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/send/push/push-data-collection){target="_blank"}
+* [Experience Cloud Triggers設定](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers){target="_blank"}
 
 ## 部署
 
-* [封裝匯入/匯出](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/packages){target="_blank"}
+* [封裝匯入/匯出](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/packages){target="_blank"}
 
 ## 資料管理
 
