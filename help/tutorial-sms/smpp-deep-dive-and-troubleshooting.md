@@ -19,4 +19,4 @@ ht-degree: 92%
 
 瞭解如何建立 SMPP 連線以及 SMPP 如何通過 PDU 交換資料。 瞭解如何疑難排解連線問題。
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453422?captions=chi_hant&quality=12&learn=on){transcript=true}

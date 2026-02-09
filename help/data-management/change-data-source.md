@@ -20,4 +20,4 @@ ht-degree: 10%
 
 瞭解如何使用「變更資料Source活動」變更工作流程工作表格的資料來源，以靈活管理不同資料來源（例如FDA、FFDA和本機資料庫）的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449541?captions=chi_hant&quality=12&learn=on){transcript=true}

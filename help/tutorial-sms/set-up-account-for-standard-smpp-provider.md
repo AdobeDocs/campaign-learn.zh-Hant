@@ -19,6 +19,6 @@ ht-degree: 95%
 
 了解如何使用 Adobe Campaign 建立 SMPP 帳戶、如何分析簡訊傳遞結果，以及依據您的 SMPP 提供者的規格自訂 SR 處理。
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454251?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 請參閱[簡訊連接器協定和設定](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)以了解有關 SMPP 協定、外部帳戶設定，或針對常見問題進行疑難排解的詳細資訊。
