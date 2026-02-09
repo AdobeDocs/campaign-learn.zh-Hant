@@ -33,4 +33,4 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->本教學課程適用於 Adobe Campaign V7 和 Campaign V8。 可在產品文件中找到其他資源：[簡訊連接器通訊協定與設定](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)。
+>本教學課程適用於 Adobe Campaign V7 和 Campaign V8。 可在產品文件中找到其他資源：[簡訊連接器通訊協定與設定](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)。

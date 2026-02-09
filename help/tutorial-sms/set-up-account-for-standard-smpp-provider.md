@@ -21,4 +21,4 @@ ht-degree: 95%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
 
-請參閱[簡訊連接器協定和設定](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)以了解有關 SMPP 協定、外部帳戶設定，或針對常見問題進行疑難排解的詳細資訊。
+請參閱[簡訊連接器協定和設定](https://experienceleague.adobe.com/zh-hant/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)以了解有關 SMPP 協定、外部帳戶設定，或針對常見問題進行疑難排解的詳細資訊。
