@@ -138,4 +138,4 @@ ht-degree: 0%
 
 * **測試並學習** — 良好的測試計畫對於確保您的努力取得預期效果非常重要。 瞭解哪些有效哪些無效，並據此反複查詢。
 
-在[觀點](https://experienceleague.adobe.com/en/perspectives)中心瞭解更多策略和思想領導力。
+在[觀點](https://experienceleague.adobe.com/zh-hant/perspectives)中心瞭解更多策略和思想領導力。
