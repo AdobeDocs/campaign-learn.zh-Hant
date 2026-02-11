@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,4 @@ ht-degree: 0%
 
 * **測試並學習** — 良好的測試計畫對於確保您的努力取得預期效果非常重要。 瞭解哪些有效哪些無效，並據此反複查詢。
 
-若要回顧本文章及實作重新參與策略的即時示範，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
-
-在[客戶成功](https://experienceleague.adobe.com/zh-hant/docs/customer-success/customer-success/overview)中心瞭解更多策略和思想領導力。
-
+在[觀點](https://experienceleague.adobe.com/en/perspectives)中心瞭解更多策略和思想領導力。
