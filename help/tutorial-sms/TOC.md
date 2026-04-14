@@ -6,8 +6,8 @@ Level: Advanced
 Feature: SMS
 breadcrumb-title: 設定簡訊
 source-git-commit: 78ad0bc4c42706a63e1f508e0570414991fd2e85
-workflow-type: tm+mt
-source-wordcount: '75'
+workflow-type: ht
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 100%
 + [設定簡訊帳戶](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)
 + [調整簡訊連接器](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)
 + [SMPP 協定深入剖析和疑難排解](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
-+ 返回教學課程{#campaign-tutorials}
++ 返回教學課程 {#campaign-tutorials}
    + [Adobe Campaign V8 教學課程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=zh-Hant)
    + [Adobe Campaign V7 教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)
