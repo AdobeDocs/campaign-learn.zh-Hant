@@ -12,16 +12,16 @@ level: Experienced
 hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: cd0890e8b368b54b5c5a113c57408985355db110
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '109'
 ht-degree: 100%
 
 ---
 
 # 使用 AMP 定義互動式電子郵件內容
 
-AMP for Email 是新的開放原始碼格式，可以讓開發人員建立動態和互動式電子郵件。透過直接在電子郵件中提供的現代化應用程式功能，收件者可以與訊息本身內容進行動態互動。
+AMP for Email 是新的開放原始碼格式，可以讓開發人員建立動態和互動式電子郵件。 透過直接在電子郵件中提供的現代化應用程式功能，收件者可以與訊息本身內容進行動態互動。
 
 目前僅 Gmail、Outlook 和 Mail.ru 支援 AMP 格式。
 
