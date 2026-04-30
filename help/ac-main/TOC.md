@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教學課程
 user-guide-description: 暸解如何使用 Adobe Campaign V8 用戶端主控台的特性和功能。
 breadcrumb-title: 用戶端控制台 - 教學課程
 auto-video-transcripts: true
-source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
-workflow-type: ht
+source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
+workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 100%
       + [使用動態內容區塊製作的個人化電子郵件](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [使用個人化欄位個人化電子郵件](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [使用條件式內容建立多語言電子報](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-      + [使用 AMP 定義互動式電子郵件內容](/help/content-creation/design-interactive-email-content-with-amp.md)
+      + {hide-from-toc}[使用AMP定義互動式電子郵件內容](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [設定登陸頁面](/help/content-creation/configure-landingpages.md)
    + [建立調查](/help/content-creation/create-a-survey.md)
 + 傳送訊息{#sending-messages}
@@ -55,8 +55,8 @@ ht-degree: 100%
    + 簡訊 {#sms}
       + [建立簡訊傳送](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推播 {#push}
-      + [安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
-      + [使用 Experience Platform Mobile SDK 設定推送頻道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[安裝行動應用程式頻道](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[使用Experience Platform Mobile SDK設定推播通道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + 直接郵件 {#direct-mail}
       + [建立直接郵件傳遞](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + 使用傳遞範本{#using-delivery-templates}
@@ -94,7 +94,7 @@ ht-degree: 100%
    + [整合 Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hant)
    + [整合 Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hant)
    + [整合 Adobe Target](/help/connect/target-integration.md)
-   + [整合 Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
+   + {hide-from-toc}[與Microsoft Dynamics 365整合](/help/connect/dynamics365-integration.md)
 + 報告 {#reporting}
    + [存取內建報吿](/help/reporting/access-built-in-reports.md)
    + [產生描述性分析報告](/help/reporting/generate-a-descriptive-analysis-report.md)
