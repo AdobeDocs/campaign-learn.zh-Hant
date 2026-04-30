@@ -1,6 +1,6 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 100%
 
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 ## Adobe 開放原始碼行為準則
 
-此專案已採用 [Adobe 開放原始碼行為準則](code-of-conduct.md)或 [.NET 基金會行為準則](https://dotnetfoundation.org/code-of-conduct)。如需詳細資訊，請參閱[投稿](contributing.md)文章。
+此專案已採用 [Adobe 開放原始碼行為準則](code-of-conduct.md)或 [.NET 基金會行為準則](https://dotnetfoundation.org/code-of-conduct)。 如需詳細資訊，請參閱[投稿](contributing.md)文章。
 
 ## 關於您對 Adobe 內容的投稿
 
@@ -21,13 +21,13 @@ ht-degree: 100%
 
 ### 微幅變更
 
-若您出於好意想投稿微幅更新，請造訪文章，按一下文章中的「**編輯**」連結，隨即會轉至該文章的 GitHub 來源。然後，只需使用 GitHub UI 進行更新即可。如需詳細資訊，請參閱一般 [Adobe Docs 投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant)。
+若您出於好意想投稿微幅更新，請造訪文章，按一下文章中的「**編輯**」連結，隨即會轉至該文章的 GitHub 來源。 然後，只需使用 GitHub UI 進行更新即可。 如需詳細資訊，請參閱一般 [Adobe Docs 投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant)。
 
 您在本存放庫為文件和程式碼範例提交的微幅更正或釐清均受到 Adobe 使用條款的約束。
 
 ### 來自社群成員的重大變更或新文章
 
-如果您是 Adobe 社群的一分子，且想建立新文章或提交重大變更，請使用 Git 存放庫中的「問題」索引標籤，提交問題以便與文件團隊開始對話。一旦您同意了計劃，就需要與員工合作，透過結合公共和私有存放庫的工作來幫助引入新內容。
+如果您是 Adobe 社群的一分子，且想建立新文章或提交重大變更，請使用 Git 存放庫中的「問題」索引標籤，提交問題以便與文件團隊開始對話。 一旦您同意了計劃，就需要與員工合作，透過結合公共和私有存放庫的工作來幫助引入新內容。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -47,7 +47,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ## 如何使用 Markdown 將主題格式化
 
-此存放庫中的所有文章皆使用 GitHub 偏好的 Markdown。如果您不熟悉 Markdown，請參閱：
+此存放庫中的所有文章皆使用 GitHub 偏好的 Markdown。 如果您不熟悉 Markdown，請參閱：
 
 * [Markdown 基礎知識](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [可列印的 Markdown 速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
