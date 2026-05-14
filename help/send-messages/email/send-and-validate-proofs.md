@@ -28,4 +28,4 @@ ht-degree: 100%
 
 瞭解如何傳送及驗證電子郵件傳遞的校樣。
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447010?captions=chi_hant&quality=12&learn=on){transcript=true}

@@ -39,7 +39,7 @@ ht-degree: 16%
 
 ## 存取及探索Campaign網頁使用者介面
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453433?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 * [探索介面](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/start/user-interface)
 * [瀏覽和篩選清單](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/start/list-filters)
@@ -58,7 +58,7 @@ ht-degree: 16%
 
 瞭解如何使用 Campaign Web 介面存取、管理及探索輪廓。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448375?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 如需詳細資訊，請參閱[開始使用設定檔](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}。
 
@@ -66,7 +66,7 @@ ht-degree: 16%
 
 了解如何建立和管理客群、選取用於傳遞的客群，以及定義控制組。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453213?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 如需詳細資訊，請參閱[開始使用對象](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}。
 
@@ -122,7 +122,7 @@ ht-degree: 16%
 
 1. 了解工作流程如何運作，以及如何建立目標選擇工作流程。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453983?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 1. [使用工作流程活動](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [工作流程的護欄和限制](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -133,23 +133,23 @@ ht-degree: 16%
 
 瞭解如何從草稿開始建立電子郵件傳遞、定義客群、設計內容、模擬預覽，以及傳送校訂。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454016?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 #### &#x200B;1. 設計和定義內容
 
 了解如何導覽電子郵件設計工具。 了解如何從草稿開始架構及設計電子郵件、如何個人化，以及如何測試電子郵件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453576?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 瞭解如何透過上傳HTML來建立電子郵件、如何使其與電子郵件Designer相容，以及如何將其轉換為範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447043?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 #### &#x200B;2. 預覽和測試
 
 瞭解如何在熱門的案頭、行動裝置和網頁型使用者端中預覽電子郵件訊息內容與個人化、傳送測試傳送（校樣）並檢查電子郵件呈現。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450348?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 #### &#x200B;3. 傳送電子郵件並檢查記錄
 

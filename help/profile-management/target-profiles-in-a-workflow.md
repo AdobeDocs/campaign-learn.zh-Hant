@@ -29,7 +29,7 @@ ht-degree: 100%
 
 瞭解如何使用行銷活動工作流程，並瞭解如何建立工作流程，以及使用篩選在工作流程中選擇目標輪廓。
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453587?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 ## 下一個待看教學課程
 

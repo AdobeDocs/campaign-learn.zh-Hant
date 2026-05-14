@@ -30,4 +30,4 @@ ht-degree: 100%
 
 瞭解如何監控執行個體的負載，並據此規劃工作流程排程。
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445408?captions=chi_hant&quality=12&learn=on){transcript=true}

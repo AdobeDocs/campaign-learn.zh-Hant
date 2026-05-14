@@ -30,4 +30,4 @@ ht-degree: 100%
 
 瞭解不同類型的動態內容，並瞭解如何建立個人化區塊和條件陳述式並套用至傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452879?captions=chi_hant&quality=12&learn=on){transcript=true}

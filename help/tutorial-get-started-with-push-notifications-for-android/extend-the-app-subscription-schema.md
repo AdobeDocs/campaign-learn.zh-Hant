@@ -30,7 +30,7 @@ ht-degree: 100%
 
 瞭解如何擴充[!UICONTROL app subscription]結構描述，以便儲存 [!DNL Campaign] 從行動應用程式接收的個人化值。
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445563?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 **下一步**
 

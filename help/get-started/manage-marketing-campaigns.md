@@ -30,4 +30,4 @@ ht-degree: 100%
 
 瞭解有助於有效規划、執行和衡量跨通道行銷宣傳的 [!UICONTROL Adobe Campaign] 主要概念。
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426358?captions=chi_hant&quality=12&learn=on){transcript=true}
