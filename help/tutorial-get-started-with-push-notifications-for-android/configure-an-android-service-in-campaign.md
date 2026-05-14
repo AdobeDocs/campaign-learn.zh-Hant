@@ -10,9 +10,15 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: fc4abd2a-a7a7-4564-b1a2-736a6b2cb5d4
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/lpyGKMRnmtm4-OQ89BlYspGZtMNaYKWQPGpUPAU-5GY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: 89
 ht-degree: 100%
 
 ---
@@ -25,7 +31,7 @@ ht-degree: 100%
 
 **上一步**
 
-步驟 1：[擴充應用程式訂閱綱要，以便個人化推送通知](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
+步驟 1：[擴充應用程式訂閱結構描述，以便個人化推送通知](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
 
 **下一步**
 

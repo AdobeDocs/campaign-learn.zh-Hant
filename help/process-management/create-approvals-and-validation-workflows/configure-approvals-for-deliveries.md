@@ -9,17 +9,26 @@ activity: use
 role: User
 level: Intermediate
 exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
-source-wordcount: '46'
+TQID: https://experienceleague.adobe.com/OlJ1VGjyIn4bQ2Fxgv76YjIFFS0tE-VB3tfL-YZvjaQ
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 46
 ht-degree: 100%
 
 ---
 
-# 設定用於傳遞的核准 
+# 設定用於傳遞的核准
 
 瞭解如何在傳遞層級設定核准和審核者。  
 
 如果核准步驟與審核者在傳遞之間存在差異，請在傳遞層級設定核准。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437660?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437660?captions=chi_hant&quality=12&learn=on){transcript=true}
