@@ -28,4 +28,4 @@ ht-degree: 100%
 
 瞭解控制組的概念，並瞭解如何使用控制組進行傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446929?captions=chi_hant&quality=12&learn=on){transcript=true}
