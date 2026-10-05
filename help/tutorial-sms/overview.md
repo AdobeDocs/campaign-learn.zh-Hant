@@ -3,16 +3,30 @@ title: 技術教學課程 - 為 Adobe Campaign 設定簡訊
 description: 了解如何為 SMTP 提供者設定簡訊帳戶以及如何分析和針對設定進行疑難排解。
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label="適用於 V7 &amp; V8" type="Positive"
+badgeV7V8: label="適用於 V7 & V8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 41760d0ba303997abffa6cd79b6ae73d9ca54b3e
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: b1bd1421-1927-4c59-9bc6-ce292360e43b
+    internal-label: SMS Messaging
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '224'
 ht-degree: 100%
-
 ---
-
 # 技術教學課程 - 為 Adobe Campaign 設定簡訊
 
 本部分的教學課程是針對負責為 Adobe Campaign 設定簡訊通道的管理員設計的。
