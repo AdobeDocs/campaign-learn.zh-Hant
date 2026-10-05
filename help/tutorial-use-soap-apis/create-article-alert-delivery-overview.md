@@ -38,7 +38,7 @@ ht-degree: 71%
 
 了解如何建立工作流程，藉由傳送電子郵件，向收件者提示他們訂閱的任何新文章。
 
-**步驟一：**[查詢文章和收件者訂閱值](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
+**步驟一：**&#x200B;[查詢文章和收件者訂閱值](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
 
 *使用不同定位和篩選維度來查詢資料，以及如何使用交集來聯結輸出。*
 
