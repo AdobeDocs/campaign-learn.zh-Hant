@@ -9,22 +9,33 @@ role: User
 level: Intermediate
 recommendations: noDisplay
 exl-id: fa4c2180-15bb-424b-a54e-c7d744385fb6
-TQID: https://experienceleague.adobe.com/nVZT-SWtytNyXrkbV-J7LWhR5-KHo601s0dE9yUiOaY
+TQID: 'https://experienceleague.adobe.com/nVZT-SWtytNyXrkbV-J7LWhR5-KHo601s0dE9yUiOaY'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
+  - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+    internal-label: Approvals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: ht
-source-wordcount: 267
+    internal-label: Intermediate
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
+workflow-type: tm+mt
+source-wordcount: '267'
 ht-degree: 100%
-
 ---
-
 # 建立核准和驗證工作流程 — 簡介
 
 Adobe Campaign 提供數個選項，供行銷人員檢閱及提供傳遞內容、行銷活動目標、資料擷取和預算核准。 瞭解如何 [管理核准](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)。
@@ -43,6 +54,6 @@ Adobe Campaign 提供數個選項，供行銷人員檢閱及提供傳遞內容�
 2. [設定用於傳遞的核准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)：
 您也可以在傳遞層級設定核准。 如果傳遞核准步驟及審核者與行銷活動核准步驟及審核者有所不同，則傳遞設定會覆寫行銷活動設定。
 3. [在工作流程中建立核准流程](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)：
-您可藉由核准活動在工作流程中建立核准流程。如此一來，即可在傳遞啟動前核准目標定位選擇邏輯。 如有需要，也可在工作流程中的多個層級進行核准。
+您可藉由核准活動在工作流程中建立核准流程。 如此一來，即可在傳遞啟動前核准目標定位選擇邏輯。 如有需要，也可在工作流程中的多個層級進行核准。
 
 如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=zh-Hant)，以瞭解詳情。
