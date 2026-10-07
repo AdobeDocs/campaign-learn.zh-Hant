@@ -3,12 +3,10 @@ user-guide-title: 開始使用 Adobe Campaign v8
 user-guide-description: 本教學課程將協助您開始使用 Campaign v8。
 breadcrumb-title: 開始使用 Adobe Campaign v8
 source-git-commit: 74485da582b2aefb75629700b9d1c42496b28f46
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
-
 ---
-
 
 # 開始使用 Adobe Campaign v8 {#get-started-with-campaign-v8}
 
