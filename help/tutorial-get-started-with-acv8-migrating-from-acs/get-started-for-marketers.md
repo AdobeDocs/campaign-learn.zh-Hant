@@ -313,11 +313,11 @@ Adobe Campaign v8同時支援Android™和iOS推播頻道。 若要轉換使用�
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="驗證" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>使用登入頁面範本</strong></a>
+<a href="https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/landing-pages/lp-templates"><strong>使用登入頁面範本</strong></a>
 </div>
 <p>
 </td>
